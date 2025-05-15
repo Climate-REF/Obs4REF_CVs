@@ -1,0 +1,166 @@
+
+# missing from Universe 
+?
+site-observations in product (for obs4MIPs)
+### institution_id
+
+ARCCSS not found in universe
+ColumbiaU not found in universe
+DOE-ARM not found in universe
+GloH2O not found in universe
+MET-Norway not found in universe
+NOAA-ESRL-PSD not found in universe
+PKU not found in universe
+UAH not found in universe
+UCI-CHRS not found in universe
+
+## Source => None is known in the universe :
+20CR-V2 not found in universe
+AIRS-1-0 not found in universe
+AIRS-2-0 not found in universe
+AMSRE-v7 not found in universe
+ARMBE-atm-c1-1-8 not found in universe
+ARMBE-cldrad-c1-1-8 not found in universe
+AVISO-1-0 not found in universe
+Aura-MLS-v04-2 not found in universe
+C3S-GTO-ECV-9-0 not found in universe
+CCMP-3-1 not found in universe
+CERES-EBAF-4-0 not found in universe
+CERES-EBAF-4-1 not found in universe
+CERES-EBAF-4-2 not found in universe
+CMAP-V1902 not found in universe
+CMORPH-1-0 not found in universe
+CMORPH-1-0-CRT not found in universe
+CMSAF-CLARA-A-2-1 not found in universe
+CMSAF-HOAPS-4-0 not found in universe
+CMSAF-SARAH-2-0 not found in universe
+DAI-1-0 not found in universe
+ERA-20C not found in universe
+ERA-40 not found in universe
+ERA-5 not found in universe
+ERA-INT not found in universe
+ESA-CCI-SST-v2-1 not found in universe
+ESACCI-CLOUD-ATSR2-AATSR not found in universe
+ESACCI-CLOUD-ATSR2-AATSR-2-0 not found in universe
+ESACCI-CLOUD-AVHRR-AM not found in universe
+ESACCI-CLOUD-AVHRR-AM-2-0 not found in universe
+ESACCI-CLOUD-AVHRR-PM not found in universe
+ESACCI-CLOUD-AVHRR-PM-2-0 not found in universe
+ESACCI-CLOUD-MERIS-AATSR-2-0 not found in universe
+FLUXNET2015-1-0 not found in universe
+FireCCI-v5-1 not found in universe
+GERB-HR-ED01-1-0 not found in universe
+GERB-HR-ED01-1-1 not found in universe
+GLODAP-2-2016b not found in universe
+GNSS-RO-1-3 not found in universe
+GPCP-1-3 not found in universe
+GPCP-1DD not found in universe
+GPCP-1DD-1-3 not found in universe
+GPCP-1DD-CDR-v1-3 not found in universe
+GPCP-2-3 not found in universe
+GPCP-Daily-3-2 not found in universe
+GPCP-IP not found in universe
+GPCP-Monthly-3-2 not found in universe
+GPCP-SG not found in universe
+GPCP-SG-2-3 not found in universe
+GSMAP-gauges-NRT-v6-0 not found in universe
+HWSD-2-0 not found in universe
+HadISST-1-1 not found in universe
+IMERG-V06-EU not found in universe
+IMERG-V06-FC not found in universe
+IMERG-V06-FU not found in universe
+IMERG-V06-LU not found in universe
+IMERG-V06B-FINAL not found in universe
+IMERG-V06B-Final-3hr not found in universe
+IMERG-V07-Final not found in universe
+IMERG-V07-Final-3hr not found in universe
+IMERG-V07-Final-Daily not found in universe
+IMERG-V07-Final-Monthly not found in universe
+IMERG-v06B-FINAL not found in universe
+IMERG-v06B-Final not found in universe
+JRA25 not found in universe
+LAI4g-1-2 not found in universe
+LORA-1-1 not found in universe
+MODIS-1-0 not found in universe
+MSWEP-1-0 not found in universe
+MSWEP-V280 not found in universe
+MSWEP-V280-NRT not found in universe
+MSWEP-V280-Past not found in universe
+MSWEP-V280-Past-nogauge not found in universe
+MUR25-4-2 not found in universe
+NOAA-NCEI-AVHRR-NDVI-4-0 not found in universe
+NOAA-NCEI-ERSST-4-0 not found in universe
+NOAA-NCEI-ERSST-5-0 not found in universe
+NOAA-NCEI-FAPAR-4-0 not found in universe
+NOAA-NCEI-FAPAR-5-0 not found in universe
+NOAA-NCEI-GridSat-4-0 not found in universe
+NOAA-NCEI-HIRS-OLR-1-2 not found in universe
+NOAA-NCEI-LAI-4-0 not found in universe
+NOAA-NCEI-LAI-5-0 not found in universe
+NOAA-NCEI-NDVI not found in universe
+NOAA-NCEI-NDVI-5-0 not found in universe
+NOAA-NCEI-OISST-2-0 not found in universe
+NOAA-NCEI-PERSIANN-1-1 not found in universe
+NOAA-NCEI-SSMI-SeaIce-2-0 not found in universe
+NOAA-NCEI-SeaIce-3-1 not found in universe
+NOAA-NCEI-SeaWinds-1-2 not found in universe
+OISST-L4-AVHRR-only-v2 not found in universe
+OSISAF-V3 not found in universe
+PERSIANN-CDRv1r1 not found in universe
+PRISM-M3 not found in universe
+QuikSCAT-v20110531 not found in universe
+RSS-MSU-TLS-4 not found in universe
+RSS-MSU-TLT-4 not found in universe
+RSS-MSU-TMT-4 not found in universe
+RSS-MWIR-SST-5-1 not found in universe
+RSS-PRW-6-6-0 not found in universe
+RSS-PRW-v07r01 not found in universe
+RSS-PRW-v07r02 not found in universe
+RSS-SMAP-SSS-Monthly-5-3 not found in universe
+RSS-SMAP-SSS-Monthly-v05r03 not found in universe
+RSS-SMAP-SSS-v05r01 not found in universe
+RSS-SMAP-SSS-v05r03 not found in universe
+RSS-sfcWind-v07r01 not found in universe
+RSS-v7 not found in universe
+SGP--ARMBE-atm-c1-1-8 not found in universe
+SITE-ARMBE-atm-c1-1-8 not found in universe
+TES-1-0 not found in universe
+TRMM-3B42-IR-v7-0 not found in universe
+TRMM-3B42-MW-v7-0 not found in universe
+TRMM-3B42v-7 not found in universe
+TRMM-3B43v-7 not found in universe
+TRMM-TMPA-3B42-v7-7A not found in universe
+TRMM-TMPA-3B43-v7-7A not found in universe
+TropFlux-1-0 not found in universe
+WECANN-1-0 not found in universe
+WOA2023 not found in universe
+livneh-1-0 not found in universe
+livneh-unsplit-1-0 not found in universe
+nClimGrid-Daily-1-0 not found in universe
+nClimGrid-Monthly-1-0 not found in universe
+
+
+
+# Seems like input4MIPs collection therefore seems Good :  
+frequency
+grid_label
+license
+product => BUT missing site-observations ! => create it by hand
+realm => BUT too much realm from input4MIPs => remove not use one
+
+# NOT OK 
+institution_id are different from input4MIPs (almost DONE missing some in universe) => DONE !
+
+source (None is known in the universe)
+source_type (ARF. ... source in obs4MIPs are the same "thing" as those in universe !!! ??? how to deal with that !  
+
+# missing for now in obs4MIPs_CVs  
+nominal_resolution
+region
+required_global_attributes
+source_type
+table_id 
+
+
+
+
