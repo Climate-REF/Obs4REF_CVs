@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hadisst-1-1",
+    "type": "source"
+}

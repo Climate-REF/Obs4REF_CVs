@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "oisst-l4-avhrr-only-v2",
+    "type": "source"
+}

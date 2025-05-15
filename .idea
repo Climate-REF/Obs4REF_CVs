@@ -152,6 +152,12 @@ realm => BUT too much realm from input4MIPs => remove not use one
 institution_id are different from input4MIPs (almost DONE missing some in universe) => DONE !
 
 source (None is known in the universe)
+DONE ! beside : 
+
+IMERG-V06B-FINAL not found in universe <== lower capitalize PB
+IMERG-v06B-FINAL not found in universe <== lower capitalize PB
+
+
 source_type (ARF. ... source in obs4MIPs are the same "thing" as those in universe !!! ??? how to deal with that !  
 
 # missing for now in obs4MIPs_CVs  

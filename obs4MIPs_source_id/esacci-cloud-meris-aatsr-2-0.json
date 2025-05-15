@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "esacci-cloud-meris-aatsr-2-0",
+    "type": "source"
+}
