@@ -1,0 +1,88 @@
+
+{
+    "project_id": "obs4mips",
+    "description": "TODO?",
+    "drs_specs": [
+        {
+            "type": "directory",
+            "separator": "/",
+            "parts": [
+                {
+                    "collection_id": "obs4MIPs_activity_id",
+                    "is_required": true,
+                    "kind": "collection"
+                },
+                {
+                    "collection_id": "obs4MIPs_institution_id",
+                    "is_required": true,
+                    "kind": "collection"
+                },
+                {
+                    "collection_id": "obs4MIPs_source_id",
+                    "is_required": true,
+                    "kind": "collection"
+                },
+                {
+                    "collection_id": "obs4MIPs_frequency",
+                    "is_required": true,
+                    "kind": "collection"
+                },
+                {
+                    "collection_id": "obs4MIPs_variable_id",
+                    "is_required": true,
+                    "kind": "collection"
+                },
+                {
+                    "collection_id": "obs4MIPs_grid_label",
+                    "is_required": true,
+                    "kind": "collection"
+                },
+                {
+                    "collection_id": "obs4MIPs_version",
+                    "is_required": true,
+                    "kind": "collection"
+                }
+            ]
+        },
+        {
+            "type": "file_name",
+            "separator": "_",
+            "properties": {
+                "extension": "nc",
+                "extension_separator": "."
+            },
+            "parts": [
+                {
+                    "collection_id": "obs4MIPs_variable_id",
+                    "is_required": true,
+                    "kind": "collection"
+                },
+                {
+                    "collection_id": "obs4MIPs_frequency",
+                    "is_required": true,
+                    "kind": "collection"
+                },
+                {
+                    "collection_id": "obs4MIPs_source_id",
+                    "is_required": true,
+                    "kind": "collection"
+                },
+                {
+                    "collection_id": "obs4MIPs_variant_label",
+                    "is_required": true,
+                    "kind": "collection"
+                },
+                {
+                    "collection_id": "obs4MIPs_grid_label",
+                    "is_required": true,
+                    "kind": "collection"
+                },
+                {
+                    "collection_id": "obs4MIPs_time_range",
+                    "is_required": false,
+                    "kind": "collection"
+                }
+            ]
+        }
+    ]
+}

@@ -157,8 +157,8 @@ DONE ! beside :
 IMERG-V06B-FINAL not found in universe <== lower capitalize PB
 IMERG-v06B-FINAL not found in universe <== lower capitalize PB
 
-
 source_type (ARF. ... source in obs4MIPs are the same "thing" as those in universe !!! ??? how to deal with that !  
+==> WAIT until 16 may
 
 # missing for now in obs4MIPs_CVs  
 nominal_resolution
@@ -168,5 +168,105 @@ source_type
 table_id 
 
 
+ 
+# STILL TO DO 
 
+# missing from universe 
+## source_type ? obs_type ? 
+## insitution 
+IMERG-V06B-FINAL not found in universe <== lower capitalize PB
+IMERG-v06B-FINAL not found in universe <== lower capitalize PB
+
+# missing for now in obs4MIPs_CVs  
+nominal_resolution
+region
+required_global_attributes
+source_type
+table_id 
+project_spec ? <= FOR DRS validation generation  
+
+# ESGVOC test ?
+WHere is the DRS  ?
+https://docs.google.com/document/d/1FXXBhUh71Hjus557ZTD3EKPi_2zxeLvi1aICXOjVYPc/edit?tab=t.0
+ ???? is it good for CMIP7 ????
+ is it the latest verison ?
+
+
+
+
+
+
+# Note / Add
+
+ Data Reference Syntax (DRS) components:
+The DRS is used, for example, in file names, directory structures, the further_info_url, and in facets of some search tools. The following components are needed for obs4MIPs:
+activity_id	(original obs4MIPs "activity")
+realm		(original obs4MIPs "activity")
+frequency	(original obs4MIPs: "frequency")
+product		(original obs4MIPs: "product")
+institution_id	(original obs4MIPs: "institute")
+source_id	(original obs4MIPs: "model")
+source_label	(new in obs4MIPs)
+variable_id	(original obs4MIPs: "variable name")
+region		(new in obs4MIPs)
+grid_label	(new in obs4MIPs)
+variant_label	(original obs4MIPs: "ensemble member")
+version		(original obs4MIPs: "version number")
+
+File name template:
+The obs4MIPs file name must be constructed consistent with the following template.
+
+New obs4MIPs file name template = 
+<variable_id>_<frequency>_<source_id>_<variant_label>_<grid_label>[_<time_range>].nc
+
+For time-invariant fields, the last segment (time_range) above is omitted.
+
+All strings appearing in the file name are constructed using only the following characters: a-z, A-Z, 0-9, and the hyphen ("-"), except the hyphen must not appear in variable_id. Underscores are prohibited throughout except as shown in the template.
+
+Note that the last segment of the file name indicates the time-range spanned by the data in the file, and is omitted when inappropriate. The format for this segment is the same as in CMIP6 (see Table 2 of the CMIP6 specs document: http://goo.gl/v1drZl). 
+
+For comparison, here is the CMIP6 file name template:
+<variable_id>_<table_id>_<source_id>_<experiment_id >_<member_id>_<grid_label>[_<time_range>].nc
+
+and the legacy obs4MIPs file name template:
+<variable>_<instrument>_<processing_level>_<processing version>_<start_date>-<end_date>.nc
+
+Directory structure template:
+The obs4MIPs directory structure must be constructed consistent with the following template.
+
+New obs4MIPs directory structure =
+<activity_id>/
+<institution_id>/
+<source_id>/
+<frequency>/
+<variable_id>/
+<grid_label>/
+<version>
+
+For comparison, here is the CMIP6 directory structure:
+
+<mip_era>/
+<activity_id>/
+<institution_id>/
+<source_id>/
+<experiment_id>/
+<member_id>/
+<table_id>/
+<variable_id>/
+<grid_label>/
+<version>
+and the legacy obs4MIPs directory structure:
+
+obs4MIPs/
+observations/
+<realm>/
+<variable_id>/
+<frequency>/
+<grid>/
+<Institution_id>
+<instrument>/
+<version>/
+
+Notes:
+<version> here refers to the CMOR-assigned version number which has the form “vYYYYMMDD” (e.g., “v20170921”), indicating a representative date for the version was produced for obs4MIPs. For those not using CMOR, the convention must be followed.
 
