@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "satellite_blended",
+    "type": "obs_type"
+}
