@@ -157,7 +157,7 @@ DONE ! beside :
 IMERG-V06B-FINAL not found in universe <== lower capitalize PB
 IMERG-v06B-FINAL not found in universe <== lower capitalize PB
 
-source_type (ARF. ... source in obs4MIPs are the same "thing" as those in universe !!! ??? how to deal with that !  
+source_type (ARF. ... source in obs4MIPs are the same"thing" as those in universe !!! ??? how to deal with that !  
 ==> WAIT until 16 may
 
 # missing for now in obs4MIPs_CVs  
@@ -179,11 +179,13 @@ IMERG-v06B-FINAL not found in universe <== lower capitalize PB
 
 # missing for now in obs4MIPs_CVs  
 nominal_resolution
-region
+region 
 required_global_attributes
-source_type
+source_type                                         DONE and working 
 table_id 
-project_spec ? <= FOR DRS validation generation  
+project_spec ? <= FOR DRS validation generation     DONE Need example cause those i have not working (not CV compliant :/)
+activity_id                                         DONE
+
 
 # ESGVOC test ?
 WHere is the DRS  ?
@@ -269,4 +271,89 @@ observations/
 
 Notes:
 <version> here refers to the CMOR-assigned version number which has the form “vYYYYMMDD” (e.g., “v20170921”), indicating a representative date for the version was produced for obs4MIPs. For those not using CMOR, the convention must be followed.
+
+=============================================================
+17 juin 2025
+
+missing for global_attribute : 
+Conventions
+contact
+creation_date
+data_specs_version
+table_id 
+tracking_id
+variable_id
+variant_label <== this one is interesting ...
+
+
+=============================================================
+23 July 2025
+
+missing from DRS => obs4MIPs_variable_id
+
+took them from cmortable definition but 
+
+ch4Clim NOT found in universe
+treeFrac NOT found in universe
+n2oClim NOT found in universe
+treeFracPrimDec NOT found in universe
+burntFractionAll NOT found in universe
+cSoilMedium NOT found in universe
+nppWood NOT found in universe
+tls NOT found in universe
+hursanom NOT found in universe
+shrubFrac NOT found in universe
+hussanom NOT found in universe
+rltcre NOT found in universe
+rGrowth NOT found in universe
+grassFrac NOT found in universe
+cLitterBelow NOT found in universe
+c3PftFrac NOT found in universe
+ta-plev37 NOT found in universe
+cSoilSlow NOT found in universe
+co2Clim NOT found in universe
+cLitterAbove NOT found in universe
+fHarvest NOT found in universe
+cVeg NOT found in universe
+rstcre NOT found in universe
+rMaint NOT found in universe
+fLitterSoil NOT found in universe
+ua-plev37 NOT found in universe
+c4PftFrac NOT found in universe
+cropFrac NOT found in universe
+tmt NOT found in universe
+fGrazing NOT found in universe
+cRoot NOT found in universe
+nppRoot NOT found in universe
+latitude NOT found in universe
+hfns NOT found in universe
+landCoverFrac NOT found in universe
+fFire NOT found in universe
+treeFracSecDec NOT found in universe
+rt NOT found in universe
+treeFracSecEver NOT found in universe
+residualFrac NOT found in universe
+cSoilFast NOT found in universe
+tlt NOT found in universe
+fVegSoil NOT found in universe
+zg-plev37 NOT found in universe
+o3zm NOT found in universe
+sfcWind NOT found in universe
+pastureFrac NOT found in universe
+fVegLitter NOT found in universe
+co2massClim NOT found in universe
+cLeaf NOT found in universe
+cProduct NOT found in universe
+cLitter NOT found in universe
+cCwd NOT found in universe
+longitude NOT found in universe
+baresoilFrac NOT found in universe
+o3Clim NOT found in universe
+treeFracPrimEver NOT found in universe
+n2oglobalClim NOT found in universe
+va-plev37 NOT found in universe
+nppLeaf NOT found in universe
+sfcWindmax NOT found in universe
+ch4globalClim NOT found in universe
+
 
