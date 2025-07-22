@@ -355,5 +355,26 @@ va-plev37 NOT found in universe
 nppLeaf NOT found in universe
 sfcWindmax NOT found in universe
 ch4globalClim NOT found in universe
+DONE ! Good 
+
+Add time_range, variant_label, version DONE
+Nice ! DRS generator is working for filename, dataset, and directory ! 
+
+bemols => variant_label changed from 2.1 and 2.5 => Free text ? really ? not really CV then 
+
+NEXT : 
+missing for global_attribute : 
+
+Conventions (example Done)
+contact (done freetext)
+creation_date => done
+data_specs_version done
+table_id does not exist anymore
+tracking_id done 
+
+So Basic CV => Done
+DRS & global attribute => DONE
+Seems OK ?
+
 
 
