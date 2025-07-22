@@ -186,10 +186,6 @@
         "source_collection": "obs4MIPs_source_id",
         "value_type": "string"
       },
-      "table_id": {
-        "source_collection": "obs4MIPs_table_id",
-        "value_type": "string"
-      },
       "tracking_id": {
         "source_collection": "obs4MIPs_tracking_id",
         "value_type": "string"
