@@ -65,7 +65,7 @@ for item in variables_list_flat:
     if found_item is None:
         print(item, "NOT found in universe")
     else:
-        # print(item, "found in universe")
+        print(".")
 
         # Create json file
         dict_to_save = {
@@ -73,6 +73,6 @@ for item in variables_list_flat:
             "id": found_item.id,
             "type": found_item.type,
         }
-        # print(dict_to_save)
-        # with open(Path(save_dir) / f"{found_item.id}.json", "w") as f:
-        #     json.dump(dict_to_save, f, indent=4)
+        print(dict_to_save)
+        with open(Path(save_dir) / f"{found_item.id}.json", "w") as f:
+            json.dump(dict_to_save, f, indent=4)
