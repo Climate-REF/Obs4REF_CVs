@@ -1,88 +1,207 @@
-
 {
-    "project_id": "obs4mips",
-    "description": "TODO?",
-    "drs_specs": [
+  "project_id": "obs4mips",
+  "description": "TODO?",
+  "drs_specs": [
+    {
+      "type": "directory",
+      "separator": "/",
+      "parts": [
         {
-            "type": "directory",
-            "separator": "/",
-            "parts": [
-                {
-                    "collection_id": "obs4MIPs_activity_id",
-                    "is_required": true,
-                    "kind": "collection"
-                },
-                {
-                    "collection_id": "obs4MIPs_institution_id",
-                    "is_required": true,
-                    "kind": "collection"
-                },
-                {
-                    "collection_id": "obs4MIPs_source_id",
-                    "is_required": true,
-                    "kind": "collection"
-                },
-                {
-                    "collection_id": "obs4MIPs_frequency",
-                    "is_required": true,
-                    "kind": "collection"
-                },
-                {
-                    "collection_id": "obs4MIPs_variable_id",
-                    "is_required": true,
-                    "kind": "collection"
-                },
-                {
-                    "collection_id": "obs4MIPs_grid_label",
-                    "is_required": true,
-                    "kind": "collection"
-                },
-                {
-                    "collection_id": "obs4MIPs_version",
-                    "is_required": true,
-                    "kind": "collection"
-                }
-            ]
+          "collection_id": "obs4MIPs_activity_id",
+          "is_required": true,
+          "kind": "collection"
         },
         {
-            "type": "file_name",
-            "separator": "_",
-            "properties": {
-                "extension": "nc",
-                "extension_separator": "."
-            },
-            "parts": [
-                {
-                    "collection_id": "obs4MIPs_variable_id",
-                    "is_required": true,
-                    "kind": "collection"
-                },
-                {
-                    "collection_id": "obs4MIPs_frequency",
-                    "is_required": true,
-                    "kind": "collection"
-                },
-                {
-                    "collection_id": "obs4MIPs_source_id",
-                    "is_required": true,
-                    "kind": "collection"
-                },
-                {
-                    "collection_id": "obs4MIPs_variant_label",
-                    "is_required": true,
-                    "kind": "collection"
-                },
-                {
-                    "collection_id": "obs4MIPs_grid_label",
-                    "is_required": true,
-                    "kind": "collection"
-                },
-                {
-                    "collection_id": "obs4MIPs_time_range",
-                    "is_required": false,
-                    "kind": "collection"
-                }
-            ]
+          "collection_id": "obs4MIPs_institution_id",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_source_id",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_frequency",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_variable_id",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_grid_label",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_version",
+          "is_required": true,
+          "kind": "collection"
         }
-    ]
+      ]
+    },
+    {
+      "type": "file_name",
+      "separator": "_",
+      "properties": {
+        "extension": "nc",
+        "extension_separator": "."
+      },
+      "parts": [
+        {
+          "collection_id": "obs4MIPs_variable_id",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_frequency",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_source_id",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_variant_label",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_grid_label",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_time_range",
+          "is_required": false,
+          "kind": "collection"
+        }
+      ]
+    },
+    {
+      "type": "dataset_id",
+      "separator": ".",
+      "parts": [
+        {
+          "collection_id": "obs4MIPs_activity_id",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_institution_id",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_source_id",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_frequency",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_variable_id",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_grid_label",
+          "is_required": true,
+          "kind": "collection"
+        },
+        {
+          "collection_id": "obs4MIPs_version",
+          "is_required": true,
+          "kind": "collection"
+        }
+      ]
+    }
+  ],
+  "global_attributes_specs": {
+    "specs": {
+      "Conventions": {
+        "source_collection": "obs4MIPs_Conventions",
+        "value_type": "string"
+      },
+      "activity_id": {
+        "source_collection": "obs4MIPs_activity_id",
+        "value_type": "string"
+      },
+      "contact": {
+        "source_collection": "obs4MIPs_contact",
+        "value_type": "string"
+      },
+      "creation_date": {
+        "source_collection": "obs4MIPs_creation_date",
+        "value_type": "string"
+      },
+      "data_specs_version": {
+        "source_collection": "obs4MIPs_data_specs_version",
+        "value_type": "string"
+      },
+      "grid": {
+        "source_collection": "obs4MIPs_grid_label",
+        "value_type": "string",
+        "specific_key": "description"
+      },
+      "grid_label": {
+        "source_collection": "obs4MIPs_grid_label",
+        "value_type": "string"
+      },
+      "institution": {
+        "source_collection": "obs4MIPs_institution_id",
+        "value_type": "string",
+        "specific_key": "description"
+      },
+      "institution_id": {
+        "source_collection": "obs4MIPs_institution_id",
+        "value_type": "string"
+      },
+      "license": {
+        "source_collection": "obs4MIPs_license",
+        "value_type": "string"
+      },
+      "nominal_resolution": {
+        "source_collection": "obs4MIPs_nominal_resolution",
+        "value_type": "string",
+        "specific_key": "description"
+      },
+      "product": {
+        "source_collection": "obs4MIPs_product",
+        "value_type": "string"
+      },
+      "realm": {
+        "source_collection": "obs4MIPs_realm",
+        "value_type": "string"
+      },
+      "source_id": {
+        "source_collection": "obs4MIPs_source_id",
+        "value_type": "string"
+      },
+      "table_id": {
+        "source_collection": "obs4MIPs_table_id",
+        "value_type": "string"
+      },
+      "tracking_id": {
+        "source_collection": "obs4MIPs_tracking_id",
+        "value_type": "string"
+      },
+      "variable_id": {
+        "source_collection": "obs4MIPs_variable_id",
+        "value_type": "string"
+      },
+      "variant_label": {
+        "source_collection": "obs4MIPs_variant_label",
+        "value_type": "string"
+      }
+    }
+  }
 }
