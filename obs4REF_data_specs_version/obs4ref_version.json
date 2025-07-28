@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "obs4ref_version",
+    "type": "data_specs_version"
+}
