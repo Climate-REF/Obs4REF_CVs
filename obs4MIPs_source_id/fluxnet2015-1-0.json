@@ -1,5 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "fluxnet2015-1-0",
-    "type": "source"
-}

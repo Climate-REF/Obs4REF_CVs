@@ -1,5 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "gridded_insitu",
-    "type": "obs_type"
-}

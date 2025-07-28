@@ -1,5 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "tropflux-1-0",
-    "type": "source"
-}
