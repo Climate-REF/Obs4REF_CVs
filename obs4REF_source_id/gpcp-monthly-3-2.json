@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "gpcp-monthly-3-2",
+    "type": "source"
+}

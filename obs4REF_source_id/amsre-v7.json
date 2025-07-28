@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "amsre-v7",
+    "type": "source"
+}
