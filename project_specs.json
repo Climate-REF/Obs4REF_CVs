@@ -1,5 +1,5 @@
 {
-  "project_id": "obs4mips",
+  "project_id": "obs4ref",
   "description": "TODO?",
   "drs_specs": [
     {
@@ -7,37 +7,37 @@
       "separator": "/",
       "parts": [
         {
-          "collection_id": "obs4MIPs_activity_id",
+          "collection_id": "obs4REF_activity_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_institution_id",
+          "collection_id": "obs4REF_institution_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_source_id",
+          "collection_id": "obs4REF_source_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_frequency",
+          "collection_id": "obs4REF_frequency",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_variable_id",
+          "collection_id": "obs4REF_variable_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_grid_label",
+          "collection_id": "obs4REF_grid_label",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_version",
+          "collection_id": "obs4REF_version",
           "is_required": true,
           "kind": "collection"
         }
@@ -52,32 +52,32 @@
       },
       "parts": [
         {
-          "collection_id": "obs4MIPs_variable_id",
+          "collection_id": "obs4REF_variable_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_frequency",
+          "collection_id": "obs4REF_frequency",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_source_id",
+          "collection_id": "obs4REF_source_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_variant_label",
+          "collection_id": "obs4REF_variant_label",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_grid_label",
+          "collection_id": "obs4REF_grid_label",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_time_range",
+          "collection_id": "obs4REF_time_range",
           "is_required": false,
           "kind": "collection"
         }
@@ -88,37 +88,37 @@
       "separator": ".",
       "parts": [
         {
-          "collection_id": "obs4MIPs_activity_id",
+          "collection_id": "obs4REF_activity_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_institution_id",
+          "collection_id": "obs4REF_institution_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_source_id",
+          "collection_id": "obs4REF_source_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_frequency",
+          "collection_id": "obs4REF_frequency",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_variable_id",
+          "collection_id": "obs4REF_variable_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_grid_label",
+          "collection_id": "obs4REF_grid_label",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4MIPs_version",
+          "collection_id": "obs4REF_version",
           "is_required": true,
           "kind": "collection"
         }
@@ -128,74 +128,74 @@
   "global_attributes_specs": {
     "specs": {
       "Conventions": {
-        "source_collection": "obs4MIPs_Conventions",
+        "source_collection": "obs4REF_Conventions",
         "value_type": "string"
       },
       "activity_id": {
-        "source_collection": "obs4MIPs_activity_id",
+        "source_collection": "obs4REF_activity_id",
         "value_type": "string"
       },
       "contact": {
-        "source_collection": "obs4MIPs_contact",
+        "source_collection": "obs4REF_contact",
         "value_type": "string"
       },
       "creation_date": {
-        "source_collection": "obs4MIPs_creation_date",
+        "source_collection": "obs4REF_creation_date",
         "value_type": "string"
       },
       "data_specs_version": {
-        "source_collection": "obs4MIPs_data_specs_version",
+        "source_collection": "obs4REF_data_specs_version",
         "value_type": "string"
       },
       "grid": {
-        "source_collection": "obs4MIPs_grid_label",
+        "source_collection": "obs4REF_grid_label",
         "value_type": "string",
         "specific_key": "description"
       },
       "grid_label": {
-        "source_collection": "obs4MIPs_grid_label",
+        "source_collection": "obs4REF_grid_label",
         "value_type": "string"
       },
       "institution": {
-        "source_collection": "obs4MIPs_institution_id",
+        "source_collection": "obs4REF_institution_id",
         "value_type": "string",
         "specific_key": "description"
       },
       "institution_id": {
-        "source_collection": "obs4MIPs_institution_id",
+        "source_collection": "obs4REF_institution_id",
         "value_type": "string"
       },
       "license": {
-        "source_collection": "obs4MIPs_license",
+        "source_collection": "obs4REF_license",
         "value_type": "string"
       },
       "nominal_resolution": {
-        "source_collection": "obs4MIPs_nominal_resolution",
+        "source_collection": "obs4REF_nominal_resolution",
         "value_type": "string",
         "specific_key": "description"
       },
       "product": {
-        "source_collection": "obs4MIPs_product",
+        "source_collection": "obs4REF_product",
         "value_type": "string"
       },
       "realm": {
-        "source_collection": "obs4MIPs_realm",
+        "source_collection": "obs4REF_realm",
         "value_type": "string"
       },
       "source_id": {
-        "source_collection": "obs4MIPs_source_id",
+        "source_collection": "obs4REF_source_id",
         "value_type": "string"
       },
       "tracking_id": {
-        "source_collection": "obs4MIPs_tracking_id",
+        "source_collection": "obs4REF_tracking_id",
         "value_type": "string"
       },
       "variable_id": {
-        "source_collection": "obs4MIPs_variable_id",
+        "source_collection": "obs4REF_variable_id",
         "value_type": "string"
       },
       "variant_label": {
-        "source_collection": "obs4MIPs_variant_label",
+        "source_collection": "obs4REF_variant_label",
         "value_type": "string"
       }
     }
