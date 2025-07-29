@@ -143,6 +143,10 @@
         "source_collection": "obs4REF_creation_date",
         "value_type": "string"
       },
+      "dataset_contributor": {
+        "source_collection": "obs4REF_dataset_contributor",
+        "value_type": "string" 
+      },
       "data_specs_version": {
         "source_collection": "obs4REF_data_specs_version",
         "value_type": "string"
