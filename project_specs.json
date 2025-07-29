@@ -32,7 +32,7 @@
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_grid_label",
+          "collection_id": "obs4REF_nominal_resolution",
           "is_required": true,
           "kind": "collection"
         },
@@ -113,7 +113,7 @@
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_grid_label",
+          "collection_id": "obs4REF_nominal_resolution",
           "is_required": true,
           "kind": "collection"
         },
