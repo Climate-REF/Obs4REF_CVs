@@ -206,11 +206,15 @@
         "source_collection": "obs4REF_source_id",
         "value_type": "string"
       },
-
       "source": {
         "source_collection": "obs4REF_source_id",
         "value_type": "string", 
         "specific_key": "label_extended"
+      },
+        "source_label": { 
+        "source_collection": "obs4REF_source_id",
+        "value_type": "string",
+        "specific_key": "drs_name" 
       },
       "tracking_id": {
         "source_collection": "obs4REF_tracking_id",
