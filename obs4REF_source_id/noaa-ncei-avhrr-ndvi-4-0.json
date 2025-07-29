@@ -1,5 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "noaa-ncei-avhrr-ndvi-4-0",
-    "type": "source"
-}

@@ -1,5 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "olc-ors-v0",
-    "type": "source"
-}
