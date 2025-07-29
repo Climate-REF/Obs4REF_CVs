@@ -9,7 +9,7 @@ import requests
 json_url = "https://raw.githubusercontent.com/PCMDI/obs4MIPs-cmor-tables/refs/heads/master/obs4MIPs_source_id.json"
 
 # Directory where the JSON files will be saved
-save_dir = "obs4MIPs_source_id"
+save_dir = "obs4REF_source_id"
 
 # Create the directory if it doesn't exist
 os.makedirs(save_dir, exist_ok=True)
@@ -42,6 +42,7 @@ for item in data:
             "id": found_item.id,
             "type": found_item.type,
         }
-        # print(dict_to_save)
-        with open(Path(save_dir) / f"{found_item.id}.json", "w") as f:
-            json.dump(dict_to_save, f, indent=4)
+        final_path = Path(save_dir) / f"{found_item.id}.json"
+        if not final_path.exists():
+            with open(final_path, "w") as f:
+                json.dump(dict_to_save, f, indent=4)
