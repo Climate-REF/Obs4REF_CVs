@@ -151,6 +151,10 @@
         "source_collection": "obs4REF_data_specs_version",
         "value_type": "string"
       },
+      "frequency": {
+        "source_collection": "obs4REF_frequency",
+        "value_type": "string"
+      },
       "grid": {
         "source_collection": "obs4REF_grid_label",
         "value_type": "string",
