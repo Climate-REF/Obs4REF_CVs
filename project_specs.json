@@ -29,7 +29,7 @@
         {
           "collection_id": "obs4REF_variable_id",
           "is_required": true,
-          "kind": "collection"
+          "kind":"collection"
         },
         {
           "collection_id": "obs4REF_nominal_resolution",
@@ -205,6 +205,12 @@
       "source_id": {
         "source_collection": "obs4REF_source_id",
         "value_type": "string"
+      },
+
+      "source": {
+        "source_collection": "obs4REF_source_id",
+        "value_type": "string", 
+        "specific_key": "label_extended"
       },
       "tracking_id": {
         "source_collection": "obs4REF_tracking_id",
