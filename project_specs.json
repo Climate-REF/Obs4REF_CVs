@@ -182,6 +182,10 @@
         "value_type": "string",
         "specific_key": "description"
       },
+      "processing_code_location": {
+        "source_collection": "obs4REF_processing_code_location",
+        "value_type": "string" 
+      },
       "product": {
         "source_collection": "obs4REF_product",
         "value_type": "string"
@@ -189,6 +193,10 @@
       "realm": {
         "source_collection": "obs4REF_realm",
         "value_type": "string"
+      },
+      "references": {
+        "source_collection": "obs4REF_references",
+        "value_type": "string" 
       },
       "source_id": {
         "source_collection": "obs4REF_source_id",
