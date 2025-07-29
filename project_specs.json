@@ -198,6 +198,10 @@
         "source_collection": "obs4REF_references",
         "value_type": "string" 
       },
+      "region": {
+        "source_collection": "obs4REF_region",
+        "value_type": "string" 
+      },
       "source_id": {
         "source_collection": "obs4REF_source_id",
         "value_type": "string"

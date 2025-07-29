@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "persian_gulf",
+    "type": "region"
+}

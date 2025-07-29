@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "taiwan_luzon_straits",
+    "type": "region"
+}

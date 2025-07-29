@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "barents_opening",
+    "type": "region"
+}
