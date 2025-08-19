@@ -1,14 +1,14 @@
-
-name: CV Validation with ESGVOC
+name: CV Validation with ESGVoc
 
 on:
   push:
-    branches: [ main, REF ]
+    branches: [ esgvoc, esgvoc_dev ]
 
 env:
   TEST_BRANCH: "test_branch_${{ github.run_id }}"
   PYTHON_VERSION: "3.11"
-  ESGVOC_LIBRARY_BRANCH: "integration"  # Change this to specify which esgvoc library branch to use
+  # Conditional esgvoc library branch: integration for esgvoc_dev, main for others
+  ESGVOC_LIBRARY_BRANCH: ${{ github.ref_name == 'esgvoc_dev' && 'integration' || 'main' }}
 
 jobs:
   validate-cv:
@@ -55,13 +55,64 @@ jobs:
         # Install esgvoc from the specified branch
         uv pip install "esgvoc @ git+https://github.com/ESGF/esgf-vocab.git@${{ env.ESGVOC_LIBRARY_BRANCH }}"
 
-    - name: Test CV with ESGVoc
+    - name: Configure and Install ESGVoc
       run: |
         source .venv/bin/activate
         
-        # Configure esgvoc to use the test branch
-        export ESGVOC_CV_REPO_BRANCH="${{ env.TEST_BRANCH }}"
-        export ESGVOC_CV_REPO_URL="https://github.com/${{ github.repository }}"
+        # Configure and install esgvoc with test branch
+        python -c "
+import os
+import sys
+from esgvoc.core.service.configuration.setting import Setting, UniverseSettings, ProjectSettings
+from esgvoc.core.service import config_manager
+from esgvoc.core.service.state import StateService
+
+try:
+    test_branch = '${{ env.TEST_BRANCH }}'
+    repo_url = 'https://github.com/${{ github.repository }}'
+    
+    print(f'Configuring esgvoc to use CV from branch: {test_branch}')
+    print(f'Repository: {repo_url}')
+    print(f'Using esgvoc library from branch: ${{ env.ESGVOC_LIBRARY_BRANCH }}')
+    
+    # Create configuration for the CV project using test branch
+    project_config = ProjectSettings(
+        project_name='test_cv',
+        github_repo=repo_url,
+        branch=test_branch
+    )
+    
+    # Create universe settings
+    universe_config = UniverseSettings(
+        github_repo='https://github.com/WCRP-CMIP/WCRP-universe',
+        branch='esgvoc'
+    )
+    
+    # Create main setting with our test configuration
+    custom_setting = Setting(
+        universe=universe_config,
+        projects=[project_config]
+    )
+    
+    # Update the global current_state with our custom configuration
+    import esgvoc.core.service
+    esgvoc.core.service.current_state = StateService(custom_setting)
+    
+    # Now synchronize with our custom settings
+    print('Initializing esgvoc with test configuration...')
+    esgvoc.core.service.current_state.synchronize_all()
+    print('✅ ESGVoc configured and synchronized successfully!')
+    
+except Exception as e:
+    print(f'❌ ESGVoc configuration failed: {e}')
+    import traceback
+    traceback.print_exc()
+    sys.exit(1)
+"
+
+    - name: Test CV with ESGVoc
+      run: |
+        source .venv/bin/activate
         
         # Run the validation script
         python -c "
@@ -69,16 +120,7 @@ import os
 import sys
 
 try:
-    # Configure esgvoc to use test branch
-    os.environ['ESGVOC_CV_REPO_BRANCH'] = os.environ.get('ESGVOC_CV_REPO_BRANCH', '${{ env.TEST_BRANCH }}')
-    os.environ['ESGVOC_CV_REPO_URL'] = os.environ.get('ESGVOC_CV_REPO_URL', 'https://github.com/${{ github.repository }}')
-    
-    # Import and test esgvoc with the CV
-    import esgvoc
-    
-    print(f'Testing CV from branch: {os.environ[\"ESGVOC_CV_REPO_BRANCH\"]}')
-    print(f'Repository: {os.environ[\"ESGVOC_CV_REPO_URL\"]}')
-    print(f'Using esgvoc library from branch: ${{ env.ESGVOC_LIBRARY_BRANCH }}')
+    print('Running CV validation tests...')
     
     # Add your specific esgvoc validation logic here
     # Example: result = esgvoc.validate_cv()
@@ -89,6 +131,8 @@ try:
     
 except Exception as e:
     print(f'❌ CV validation failed: {e}')
+    import traceback
+    traceback.print_exc()
     sys.exit(1)
 "
 
