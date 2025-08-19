@@ -4,6 +4,10 @@ on:
   push:
     branches: [ REF, esgvoc, esgvoc_dev ]
 
+permissions:
+  contents: write
+  actions: read
+
 env:
   TEST_BRANCH: "test_branch_${{ github.run_id }}"
   PYTHON_VERSION: "3.11"
@@ -21,10 +25,11 @@ jobs:
         fetch-depth: 0
         token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Configure Git
+    - name: Set up Git authentication
       run: |
         git config --global user.name "github-actions[bot]"
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
 
     - name: Create and push to test branch
       run: |
