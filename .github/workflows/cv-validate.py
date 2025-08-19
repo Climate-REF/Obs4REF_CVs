@@ -2,7 +2,7 @@
 import os
 import sys
 from esgvoc.core.service.configuration.setting import (
-    Setting,
+    ServiceSettings,
     UniverseSettings,
     ProjectSettings,
 )
@@ -37,7 +37,12 @@ def configure_and_install_esgvoc():
         )
 
         # Create main setting with our test configuration
-        custom_setting = Setting(universe=universe_config, projects=[project_config])
+        custom_setting = ServiceSettings(
+            universe=universe_config,
+            projects={
+                project_config.project_name: project_config,
+            },
+        )
 
         # Update the global current_state with our custom configuration
         import esgvoc.core.service
