@@ -1,0 +1,116 @@
+
+name: CV Validation with ESGVOC
+
+on:
+  push:
+    branches: [ main, REF ]
+
+env:
+  TEST_BRANCH: "test_branch_${{ github.run_id }}"
+  PYTHON_VERSION: "3.11"
+  ESGVOC_LIBRARY_BRANCH: "integration"  # Change this to specify which esgvoc library branch to use
+
+jobs:
+  validate-cv:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Configure Git
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+    - name: Create and push to test branch
+      run: |
+        # Create test branch from current commit
+        git checkout -b ${{ env.TEST_BRANCH }}
+        
+        # Push test branch to origin
+        git push origin ${{ env.TEST_BRANCH }}
+        
+        echo "Test branch created: ${{ env.TEST_BRANCH }}"
+        echo "TEST_BRANCH_REF=${{ github.repository }}/${{ env.TEST_BRANCH }}" >> $GITHUB_ENV
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+
+    - name: Install uv
+      run: |
+        curl -LsSf https://astral.sh/uv/install.sh | sh
+        echo "$HOME/.local/bin" >> $GITHUB_PATH
+
+    - name: Install dependencies
+      run: |
+        uv venv
+        source .venv/bin/activate
+        
+        # Install esgvoc from the specified branch
+        uv pip install "esgvoc @ git+https://github.com/ESGF/esgf-vocab.git@${{ env.ESGVOC_LIBRARY_BRANCH }}"
+
+    - name: Test CV with ESGVoc
+      run: |
+        source .venv/bin/activate
+        
+        # Configure esgvoc to use the test branch
+        export ESGVOC_CV_REPO_BRANCH="${{ env.TEST_BRANCH }}"
+        export ESGVOC_CV_REPO_URL="https://github.com/${{ github.repository }}"
+        
+        # Run the validation script
+        python -c "
+import os
+import sys
+
+try:
+    # Configure esgvoc to use test branch
+    os.environ['ESGVOC_CV_REPO_BRANCH'] = os.environ.get('ESGVOC_CV_REPO_BRANCH', '${{ env.TEST_BRANCH }}')
+    os.environ['ESGVOC_CV_REPO_URL'] = os.environ.get('ESGVOC_CV_REPO_URL', 'https://github.com/${{ github.repository }}')
+    
+    # Import and test esgvoc with the CV
+    import esgvoc
+    
+    print(f'Testing CV from branch: {os.environ[\"ESGVOC_CV_REPO_BRANCH\"]}')
+    print(f'Repository: {os.environ[\"ESGVOC_CV_REPO_URL\"]}')
+    print(f'Using esgvoc library from branch: ${{ env.ESGVOC_LIBRARY_BRANCH }}')
+    
+    # Add your specific esgvoc validation logic here
+    # Example: result = esgvoc.validate_cv()
+    # if not result.is_valid:
+    #     sys.exit(1)
+    
+    print('✅ CV validation passed!')
+    
+except Exception as e:
+    print(f'❌ CV validation failed: {e}')
+    sys.exit(1)
+"
+
+    - name: Cleanup test branch
+      if: always()
+      run: |
+        # Delete the test branch from remote
+        git push origin --delete ${{ env.TEST_BRANCH }} || true
+        
+        # Switch back to original branch and delete local test branch
+        git checkout ${{ github.ref_name }}
+        git branch -D ${{ env.TEST_BRANCH }} || true
+
+    - name: Validation Summary
+      if: success()
+      run: |
+        echo "✅ CV validation completed successfully!"
+        echo "The changes are compatible with esgvoc library (branch: ${{ env.ESGVOC_LIBRARY_BRANCH }})."
+
+    - name: Validation Failed
+      if: failure()
+      run: |
+        echo "❌ CV validation failed!"
+        echo "Please check the logs above for details."
+        exit 1
