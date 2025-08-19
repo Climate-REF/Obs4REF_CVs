@@ -66,12 +66,12 @@ jobs:
         export TEST_BRANCH="${{ env.TEST_BRANCH }}"
         export REPO_URL="https://github.com/${{ github.repository }}"
         export ESGVOC_LIBRARY_BRANCH="${{ env.ESGVOC_LIBRARY_BRANCH }}"
-        python cv-validate.py configure
+        python .github/workflows/cv-validate.py configure
 
     - name: Test CV with ESGVoc
       run: |
         source .venv/bin/activate
-        python cv-validate.py test
+        python .github/workflows/cv-validate.py test
 
     - name: Cleanup test branch
       if: always()
