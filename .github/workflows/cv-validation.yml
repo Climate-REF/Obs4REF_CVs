@@ -60,7 +60,7 @@ jobs:
         source .venv/bin/activate
         
         # Configure and install esgvoc with test branch
-        python -c "
+        python -c '
 import os
 import sys
 from esgvoc.core.service.configuration.setting import Setting, UniverseSettings, ProjectSettings
@@ -68,24 +68,24 @@ from esgvoc.core.service import config_manager
 from esgvoc.core.service.state import StateService
 
 try:
-    test_branch = '${{ env.TEST_BRANCH }}'
-    repo_url = 'https://github.com/${{ github.repository }}'
+    test_branch = "${{ env.TEST_BRANCH }}"
+    repo_url = "https://github.com/${{ github.repository }}"
     
-    print(f'Configuring esgvoc to use CV from branch: {test_branch}')
-    print(f'Repository: {repo_url}')
-    print(f'Using esgvoc library from branch: ${{ env.ESGVOC_LIBRARY_BRANCH }}')
+    print(f"Configuring esgvoc to use CV from branch: {test_branch}")
+    print(f"Repository: {repo_url}")
+    print(f"Using esgvoc library from branch: ${{ env.ESGVOC_LIBRARY_BRANCH }}")
     
     # Create configuration for the CV project using test branch
     project_config = ProjectSettings(
-        project_name='test_cv',
+        project_name="test_cv",
         github_repo=repo_url,
         branch=test_branch
     )
     
     # Create universe settings
     universe_config = UniverseSettings(
-        github_repo='https://github.com/WCRP-CMIP/WCRP-universe',
-        branch='esgvoc'
+        github_repo="https://github.com/WCRP-CMIP/WCRP-universe",
+        branch="esgvoc"
     )
     
     # Create main setting with our test configuration
@@ -99,16 +99,16 @@ try:
     esgvoc.core.service.current_state = StateService(custom_setting)
     
     # Now synchronize with our custom settings
-    print('Initializing esgvoc with test configuration...')
+    print("Initializing esgvoc with test configuration...")
     esgvoc.core.service.current_state.synchronize_all()
-    print('✅ ESGVoc configured and synchronized successfully!')
+    print("✅ ESGVoc configured and synchronized successfully!")
     
 except Exception as e:
-    print(f'❌ ESGVoc configuration failed: {e}')
+    print(f"❌ ESGVoc configuration failed: {e}")
     import traceback
     traceback.print_exc()
     sys.exit(1)
-"
+'
 
     - name: Test CV with ESGVoc
       run: |
