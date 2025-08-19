@@ -2,7 +2,7 @@ name: CV Validation with ESGVoc
 
 on:
   push:
-    branches: [ esgvoc, esgvoc_dev ]
+    branches: [ REF, esgvoc, esgvoc_dev ]
 
 env:
   TEST_BRANCH: "test_branch_${{ github.run_id }}"
