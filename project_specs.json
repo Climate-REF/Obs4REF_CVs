@@ -7,37 +7,37 @@
       "separator": "/",
       "parts": [
         {
-          "collection_id": "obs4REF_activity_id",
+          "collection_id": "activity_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_institution_id",
+          "collection_id": "institution_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_source_id",
+          "collection_id": "source_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_frequency",
+          "collection_id": "frequency",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_variable_id",
+          "collection_id": "variable_id",
           "is_required": true,
           "kind":"collection"
         },
         {
-          "collection_id": "obs4REF_nominal_resolution",
+          "collection_id": "nominal_resolution",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_version",
+          "collection_id": "version",
           "is_required": true,
           "kind": "collection"
         }
@@ -52,32 +52,32 @@
       },
       "parts": [
         {
-          "collection_id": "obs4REF_variable_id",
+          "collection_id": "variable_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_frequency",
+          "collection_id": "frequency",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_source_id",
+          "collection_id": "source_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_variant_label",
+          "collection_id": "variant_label",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_grid_label",
+          "collection_id": "grid_label",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_time_range",
+          "collection_id": "time_range",
           "is_required": false,
           "kind": "collection"
         }
@@ -88,37 +88,37 @@
       "separator": ".",
       "parts": [
         {
-          "collection_id": "obs4REF_activity_id",
+          "collection_id": "activity_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_institution_id",
+          "collection_id": "institution_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_source_id",
+          "collection_id": "source_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_frequency",
+          "collection_id": "frequency",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_variable_id",
+          "collection_id": "variable_id",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_nominal_resolution",
+          "collection_id": "nominal_resolution",
           "is_required": true,
           "kind": "collection"
         },
         {
-          "collection_id": "obs4REF_version",
+          "collection_id": "version",
           "is_required": true,
           "kind": "collection"
         }
@@ -128,104 +128,104 @@
   "global_attributes_specs": {
     "specs": {
       "Conventions": {
-        "source_collection": "obs4REF_Conventions",
+        "source_collection": "conventions",
         "value_type": "string"
       },
       "activity_id": {
-        "source_collection": "obs4REF_activity_id",
+        "source_collection": "activity_id",
         "value_type": "string"
       },
       "contact": {
-        "source_collection": "obs4REF_contact",
+        "source_collection": "contact",
         "value_type": "string"
       },
       "creation_date": {
-        "source_collection": "obs4REF_creation_date",
+        "source_collection": "creation_date",
         "value_type": "string"
       },
       "dataset_contributor": {
-        "source_collection": "obs4REF_dataset_contributor",
+        "source_collection": "dataset_contributor",
         "value_type": "string" 
       },
       "data_specs_version": {
-        "source_collection": "obs4REF_data_specs_version",
+        "source_collection": "data_specs_version",
         "value_type": "string"
       },
       "frequency": {
-        "source_collection": "obs4REF_frequency",
+        "source_collection": "frequency",
         "value_type": "string"
       },
       "grid": {
-        "source_collection": "obs4REF_grid_label",
+        "source_collection": "grid_label",
         "value_type": "string",
         "specific_key": "description"
       },
       "grid_label": {
-        "source_collection": "obs4REF_grid_label",
+        "source_collection": "grid_label",
         "value_type": "string"
       },
       "institution": {
-        "source_collection": "obs4REF_institution_id",
+        "source_collection": "institution_id",
         "value_type": "string",
         "specific_key": "description"
       },
       "institution_id": {
-        "source_collection": "obs4REF_institution_id",
+        "source_collection": "institution_id",
         "value_type": "string"
       },
       "license": {
-        "source_collection": "obs4REF_license",
+        "source_collection": "license",
         "value_type": "string"
       },
       "nominal_resolution": {
-        "source_collection": "obs4REF_nominal_resolution",
+        "source_collection": "nominal_resolution",
         "value_type": "string",
         "specific_key": "description"
       },
       "processing_code_location": {
-        "source_collection": "obs4REF_processing_code_location",
+        "source_collection": "processing_code_location",
         "value_type": "string" 
       },
       "product": {
-        "source_collection": "obs4REF_product",
+        "source_collection": "product",
         "value_type": "string"
       },
       "realm": {
-        "source_collection": "obs4REF_realm",
+        "source_collection": "realm",
         "value_type": "string"
       },
       "references": {
-        "source_collection": "obs4REF_references",
+        "source_collection": "references",
         "value_type": "string" 
       },
       "region": {
-        "source_collection": "obs4REF_region",
+        "source_collection": "region",
         "value_type": "string" 
       },
       "source_id": {
-        "source_collection": "obs4REF_source_id",
+        "source_collection": "source_id",
         "value_type": "string"
       },
       "source": {
-        "source_collection": "obs4REF_source_id",
+        "source_collection": "source_id",
         "value_type": "string", 
         "specific_key": "label_extended"
       },
         "source_label": { 
-        "source_collection": "obs4REF_source_id",
+        "source_collection": "source_id",
         "value_type": "string",
         "specific_key": "drs_name" 
       },
       "tracking_id": {
-        "source_collection": "obs4REF_tracking_id",
+        "source_collection": "tracking_id",
         "value_type": "string"
       },
       "variable_id": {
-        "source_collection": "obs4REF_variable_id",
+        "source_collection": "variable_id",
         "value_type": "string"
       },
       "variant_label": {
-        "source_collection": "obs4REF_variant_label",
+        "source_collection": "variant_label",
         "value_type": "string"
       }
     }
