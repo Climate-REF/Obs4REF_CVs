@@ -1,0 +1,63 @@
+# DIRECTORY DRS SPECIFICATIONS
+directory:
+  separator: /
+  regex: '^[A-Za-z0-9][A-Za-z0-9._-]*/[A-Za-z0-9][A-Za-z0-9._-]*/[A-Za-z0-9][A-Za-z0-9._-]*/[A-Za-z0-9][A-Za-z0-9._-]*/[A-Za-z0-9][A-Za-z0-9._-]*/[A-Za-z0-9._-]+/v?[A-Za-z0-9._-]+/?$'
+  type: directory
+  parts:
+    - source_collection: activity_id
+      is_required: true
+    - source_collection: institution_id
+      is_required: true
+    - source_collection: source_id
+      is_required: true
+    - source_collection: frequency
+      is_required: true
+    - source_collection: variable_id
+      is_required: true
+    - source_collection: nominal_resolution
+      is_required: true
+    - source_collection: version
+      is_required: true
+
+# FILE NAME DRS SPECIFICATIONS
+file_name:
+  type: file_name
+  regex: '^[A-Za-z0-9]+_[A-Za-z0-9]+_[A-Za-z0-9-]+_[A-Za-z0-9-]+_[A-Za-z0-9-]+(?:_([0-9]{4,10}-[0-9]{4,10}))?\.nc$'
+  separator: _
+  properties:
+    extension: nc
+    extension_separator: .
+  parts:
+    - source_collection: variable_id
+      is_required: true
+    - source_collection: frequency
+      is_required: true
+    - source_collection: source_id
+      is_required: true
+    - source_collection: variant_label
+      is_required: true
+    - source_collection: grid_label
+      is_required: true
+    - source_collection: time_range
+      is_required: false
+
+# DATASET ID DRS SPECIFICATIONS
+dataset_id:
+  type: dataset_id
+  regex: '^[A-Za-z0-9][A-Za-z0-9._-]*\.[A-Za-z0-9][A-Za-z0-9._-]*\.[A-Za-z0-9][A-Za-z0-9._-]*\.[A-Za-z0-9][A-Za-z0-9._-]*\.[A-Za-z0-9][A-Za-z0-9._-]*\.[A-Za-z0-9._-]+$'
+  separator: .
+  parts:
+    - source_collection: activity_id
+      is_required: true
+    - source_collection: institution_id
+      is_required: true
+    - source_collection: source_id
+      is_required: true
+    - source_collection: frequency
+      is_required: true
+    - source_collection: variable_id
+      is_required: true
+    - source_collection: nominal_resolution
+      is_required: true
+    - source_collection: version
+      is_required: true
