@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "gnl_url",
+    "type": "citation_url"
+}
