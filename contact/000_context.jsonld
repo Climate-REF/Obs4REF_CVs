@@ -2,7 +2,7 @@
     "@context": {
         "id": "@id",
         "type": "@type",
-        "@base": "https://espri-mod.github.io/mip-cmor-tables/contact/",
-        "contact": "https://espri-mod.github.io/mip-cmor-tables/contact"
+        "@base": "https://esgvoc.ipsl.fr/resource/universe/contact/",
+        "contact": "https://esgvoc.ipsl.fr/resource/universe/contact"
     }
 }
