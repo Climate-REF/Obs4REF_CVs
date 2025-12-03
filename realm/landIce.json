@@ -1,5 +1,5 @@
 {
-    "@context": "000_context.jsonld",
-    "id": "landIce",
-    "type": "realm"
+  "@context": "000_context.jsonld",
+  "id": "landice",
+  "type": "realm"
 }

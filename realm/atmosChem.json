@@ -1,5 +1,5 @@
 {
-    "@context": "000_context.jsonld",
-    "id": "atmosChem",
-    "type": "realm"
+  "@context": "000_context.jsonld",
+  "id": "atmoschem",
+  "type": "realm"
 }
