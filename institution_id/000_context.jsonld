@@ -3,6 +3,6 @@
     "id": "@id",
     "type": "@type",
     "@base": "https://esgvoc.ipsl.fr/resource/universe/organisation/",
-    "organisation": "https://esgvoc.ipsl.fr/resource/universe/organisation",
+    "organisation": "https://esgvoc.ipsl.fr/resource/universe/organisation"
   }
 }
