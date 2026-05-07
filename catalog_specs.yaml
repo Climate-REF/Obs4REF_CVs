@@ -1,3 +1,5 @@
+# STAC CATALOG SPECIFICATIONS
+
 version: v1.0.2
 
 catalog_properties:
@@ -104,11 +106,6 @@ dataset_properties:
     is_required: true
 
   - source_collection: variant_label
-    catalog_field_value_type: string
-    is_required: true
-
-  - source_collection: version
-    source_collection_term: creationdatenb
     catalog_field_value_type: string
     is_required: true
 
