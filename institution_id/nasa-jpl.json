@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "nasa-jpl",
-    "type": "organisation"
-}
+{"@context": "000_context.jsonld", "id": "nasa-jpl", "type": "institution"}

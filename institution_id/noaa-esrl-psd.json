@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "noaa-esrl-psd",
-    "type": "organisation"
-}
+{"@context": "000_context.jsonld", "id": "noaa-esrl-psd", "type": "institution"}
