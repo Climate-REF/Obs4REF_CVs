@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "ai_upscaling", "type": "source_type"}
+{"@context": "000_context.jsonld", "id": "ai_upscaling", "type": "source_type", "drs_name": "AI_upscaling", "description": "gridded product exploiting multiple_sources via machine learning"}
