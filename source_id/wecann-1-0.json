@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "wecann-1-0",
-    "type": "source"
-}
+{"@context": "000_context.jsonld", "id": "wecann-1-0", "type": "source_id", "drs_name": "WECANN-1-0", "description": "Water, Energy, and Carbon with Artificial Neural Networks"}

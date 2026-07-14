@@ -1,0 +1,1 @@
+{"@context": "000_context.jsonld", "id": "olc-ors-v0", "type": "source_id", "drs_name": "OLC-ORS-V0", "description": "Optimal Linear Combination of Offline land surface models, Reanalysis, and Satellite soil moisture data constrained by in situ observations"}

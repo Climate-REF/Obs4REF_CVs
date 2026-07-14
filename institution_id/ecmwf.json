@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ecmwf",
-    "type": "organisation"
-}
+{"@context": "000_context.jsonld", "id": "ecmwf", "type": "institution_id", "drs_name": "ECMWF", "description": "The European Centre for Medium-Range Weather Forecasts, Shinfield Park, Reading RG2 9AX, UK"}

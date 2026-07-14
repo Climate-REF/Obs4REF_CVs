@@ -1,5 +1,1 @@
-{
-  "@context": "000_context.jsonld",
-  "id": "ocnbgchem",
-  "type": "realm"
-}
+{"@context": "000_context.jsonld", "id": "ocnbgchem", "type": "realm", "drs_name": "ocnBgchem"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "1hrcm",
-    "type": "frequency"
-}
+{"@context": "000_context.jsonld", "id": "1hrcm", "type": "frequency", "drs_name": "1hrCM", "description": "monthly-mean diurnal cycle resolving each day into 1-hour means"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "3hrpt",
-    "type": "frequency"
-}
+{"@context": "000_context.jsonld", "id": "3hrpt", "type": "frequency", "drs_name": "3hrPt", "description": "sampled 3 hourly, at specified time point within the time period"}

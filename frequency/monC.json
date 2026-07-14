@@ -1,5 +1,1 @@
-{
-  "@context": "000_context.jsonld",
-  "id": "monc",
-  "type": "frequency"
-}
+{"@context": "000_context.jsonld", "id": "monc", "type": "frequency", "drs_name": "monC", "description": "monthly climatology computed from monthly mean samples"}

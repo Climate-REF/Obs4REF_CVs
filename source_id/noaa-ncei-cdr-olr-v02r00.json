@@ -1,0 +1,1 @@
+{"@context": "000_context.jsonld", "id": "noaa-ncei-cdr-olr-v02r00", "type": "source_id", "drs_name": "NOAA-NCEI-CDR-OLR-v02r00", "description": "NOAA-NCEI CDR Outgoing Longwave Radiation"}

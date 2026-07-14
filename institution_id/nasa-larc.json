@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "nasa-larc",
-    "type": "organisation"
-}
+{"@context": "000_context.jsonld", "id": "nasa-larc", "type": "institution_id", "drs_name": "NASA-LaRC", "description": "NASA-LaRC (Langley Research Center) Hampton, Va"}

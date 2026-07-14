@@ -1,0 +1,1 @@
+{"@context": "000_context.jsonld", "id": "esacci-cloud-meris-aatsr-2-0", "type": "source_id", "drs_name": "ESACCI-CLOUD-MERIS-AATSR-2-0", "description": "Cloud properties derived from MERIS and AATSR (aboard ENVISAT) measurements. This dataset belongs to the ESA Cloud_cci suite of long-term coherent cloud property datasets."}

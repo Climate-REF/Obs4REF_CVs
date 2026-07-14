@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "hadcrut5-0-2-0",
-    "type": "source"
-}
+{"@context": "000_context.jsonld", "id": "hadcrut5-0-2-0", "type": "source_id", "drs_name": "HadCRUT5-0-2-0", "description": "HadCRUT5 blended air temperature and sea surface temperature anomalies"}
