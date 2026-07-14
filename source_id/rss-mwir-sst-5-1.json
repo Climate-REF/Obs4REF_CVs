@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "rss-mwir-sst-5-1", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "rss-mwir-sst-5-1", "type": "source_id", "drs_name": "RSS-MWIR-SST-5-1", "description": "RSS MWIR v5.1 Foundation OISST"}

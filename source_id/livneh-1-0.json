@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "livneh-1-0", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "livneh-1-0", "type": "source_id", "drs_name": "livneh-1-0", "description": "Livneh daily CONUS near-surface gridded meteorological and derived hydrometeorological data data provided by the NOAA PSL"}

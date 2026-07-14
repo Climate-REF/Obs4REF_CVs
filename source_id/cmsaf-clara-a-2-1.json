@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "cmsaf-clara-a-2-1", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "cmsaf-clara-a-2-1", "type": "source_id", "drs_name": "CMSAF-CLARA-A-2-1", "description": "CM SAF cLoud, Albedo and surface RAdiation dataset from AVHRR data"}

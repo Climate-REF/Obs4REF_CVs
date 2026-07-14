@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "noaa-ncei-persiann-1-1", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "noaa-ncei-persiann-1-1", "type": "source_id", "drs_name": "NOAA-NCEI-PERSIANN-1-1", "description": "Precipitation Estimation from Remotely Sensed Information using Artificial Neural Network"}

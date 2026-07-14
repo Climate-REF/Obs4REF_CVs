@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "mohc-cru-ncas", "type": "institution_id"}
+{"@context": "000_context.jsonld", "id": "mohc-cru-ncas", "type": "institution_id", "drs_name": "MOHC-CRU-NCAS", "description": "Joint research collaboration between MOHC(UK), CRU-UEA (UK) and NCAS (UK)"}

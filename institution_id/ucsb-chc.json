@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "ucsb-chc", "type": "institution_id"}
+{"@context": "000_context.jsonld", "id": "ucsb-chc", "type": "institution_id", "drs_name": "UCSB-CHC", "description": "University of California, Santa Barbara, Climate Hazards Center"}

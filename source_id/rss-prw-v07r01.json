@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "rss-prw-v07r01", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "rss-prw-v07r01", "type": "source_id", "drs_name": "RSS-PRW-v07r01", "description": "RSS-PRW 7.0 (2019): Water Vapor Path"}

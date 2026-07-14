@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "cci-swe-v4-0", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "cci-swe-v4-0", "type": "source_id", "drs_name": "CCI-SWE-v4-0", "description": "Snow Water Equivalent (SWE) from the ESA SNOW CCI Climate Data Record version 4.0"}

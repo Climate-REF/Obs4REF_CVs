@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "rss-v7", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "rss-v7", "type": "source_id", "drs_name": "RSS-v7", "description": "Satellite derived fields produced by RSS"}

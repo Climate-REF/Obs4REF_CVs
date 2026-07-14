@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "uw", "type": "institution"}
+{"@context": "000_context.jsonld", "id": "uw", "type": "institution_id", "drs_name": "UW", "description": "University of Washington, USA"}

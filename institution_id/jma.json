@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "jma", "type": "institution_id"}
+{"@context": "000_context.jsonld", "id": "jma", "type": "institution_id", "drs_name": "JMA", "description": "Japanese Meterorological Agency"}

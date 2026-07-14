@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "gerb-hr-ed01-1-0", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "gerb-hr-ed01-1-0", "type": "source_id", "drs_name": "GERB-HR-ED01-1-0", "description": "Geostationary Earth Radiation Budget"}

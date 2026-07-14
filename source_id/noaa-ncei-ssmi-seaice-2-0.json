@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "noaa-ncei-ssmi-seaice-2-0", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "noaa-ncei-ssmi-seaice-2-0", "type": "source_id", "drs_name": "NOAA-NCEI-SSMI-SeaIce-2-0", "description": "SSMI Passive Microwave Sea Ice Area Fraction"}

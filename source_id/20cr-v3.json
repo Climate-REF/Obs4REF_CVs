@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "20cr-v3", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "20cr-v3", "type": "source_id", "drs_name": "20CR-V3", "description": "Monthly NOAA/CIRES/DOE 20th Century Reanalysis V3"}

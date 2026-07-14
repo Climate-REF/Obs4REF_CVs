@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "airs-2-0", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "airs-2-0", "type": "source_id", "drs_name": "AIRS-2-0", "description": "Atmospheric Infrared Sounder"}

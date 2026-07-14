@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "met-norway", "type": "institution_id"}
+{"@context": "000_context.jsonld", "id": "met-norway", "type": "institution_id", "drs_name": "MET-Norway", "description": "Norwegian Meteorological Institute"}

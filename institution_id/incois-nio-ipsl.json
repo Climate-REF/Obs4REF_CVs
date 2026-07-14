@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "incois-nio-ipsl", "type": "institution"}
+{"@context": "000_context.jsonld", "id": "incois-nio-ipsl", "type": "institution_id", "drs_name": "INCOIS-NIO-IPSL", "description": "Joint research colloboration between INCOIS(India), NIO(India) and IPSL(France)"}

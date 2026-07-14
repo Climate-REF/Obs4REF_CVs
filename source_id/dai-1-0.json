@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "dai-1-0", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "dai-1-0", "type": "source_id", "drs_name": "DAI-1-0", "description": "Dai and Trenberth Global River Flow and Continental Discharge Dataset"}

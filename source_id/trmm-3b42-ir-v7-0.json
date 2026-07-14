@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "trmm-3b42-ir-v7-0", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "trmm-3b42-ir-v7-0", "type": "source_id", "drs_name": "TRMM-3B42-IR-v7-0", "description": "NASA-TRMM prepared for FROGS"}

@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "dlr-bira", "type": "institution"}
+{"@context": "000_context.jsonld", "id": "dlr-bira", "type": "institution_id", "drs_name": "DLR-BIRA", "description": "Deutsches Zentrum fur Luft- und Raumfahrt, Royal Belgian Institute for Space Aeronomy"}

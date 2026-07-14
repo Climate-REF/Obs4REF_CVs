@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "imperialcollege", "type": "institution"}
+{"@context": "000_context.jsonld", "id": "imperialcollege", "type": "institution_id", "drs_name": "ImperialCollege", "description": "Imperial College, London, UK"}

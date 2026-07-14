@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "mswep-v280-past-nogauge", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "mswep-v280-past-nogauge", "type": "source_id", "drs_name": "MSWEP-V280-Past-nogauge", "description": "Multi-Source Weighted-Ensemble Precipitation"}

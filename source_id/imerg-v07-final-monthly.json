@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "imerg-v07-final-monthly", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "imerg-v07-final-monthly", "type": "source_id", "drs_name": "IMERG-V07-Final-Monthly", "description": "NASA IMERG Monthly Maps"}

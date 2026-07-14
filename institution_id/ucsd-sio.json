@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "ucsd-sio", "type": "institution"}
+{"@context": "000_context.jsonld", "id": "ucsd-sio", "type": "institution_id", "drs_name": "UCSD-SIO", "description": "University of California, San Diego, Scripps Institution of Oceanography"}

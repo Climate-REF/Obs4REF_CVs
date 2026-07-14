@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "nr", "type": "institution_id"}
+{"@context": "000_context.jsonld", "id": "nr", "type": "institution_id", "drs_name": "NR", "description": "Norwegian Computing Center, Oslo, NO"}

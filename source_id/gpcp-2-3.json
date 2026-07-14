@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "gpcp-2-3",
-    "type": "source"
-}
+{"@context": "000_context.jsonld", "id": "gpcp-2-3", "type": "source_id", "drs_name": "GPCP-2-3", "description": "Merged Precipitation"}

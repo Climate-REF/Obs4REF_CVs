@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "oisst-l4-avhrr-only-v2", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "oisst-l4-avhrr-only-v2", "type": "source_id", "drs_name": "OISST-L4-AVHRR-only-v2", "description": "SST-AVHRR_only.v2 2008 NOAA 1/4 Degree Daily Optimum Interpolation Sea Surface Temperature Analysis using AVHRR, Version 2"}

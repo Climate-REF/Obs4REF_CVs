@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "nerc-nsf-noaa", "type": "institution_id"}
+{"@context": "000_context.jsonld", "id": "nerc-nsf-noaa", "type": "institution_id", "drs_name": "NERC-NSF-NOAA", "description": "Multi-institute/agency collaboration"}

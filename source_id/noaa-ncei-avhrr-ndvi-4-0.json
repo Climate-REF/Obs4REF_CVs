@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "noaa-ncei-avhrr-ndvi-4-0", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "noaa-ncei-avhrr-ndvi-4-0", "type": "source_id", "drs_name": "NOAA-NCEI-AVHRR-NDVI-4-0", "description": "Normalized Difference Vegetation Index"}

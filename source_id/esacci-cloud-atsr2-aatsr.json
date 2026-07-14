@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "esacci-cloud-atsr2-aatsr", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "esacci-cloud-atsr2-aatsr", "type": "source_id", "drs_name": "ESACCI-CLOUD-ATSR2-AATSR", "description": "Cloud properties derived from ATSR2 and AATSR (aboard ERS2 and ENVISAT) measurements. This dataset belongs to the ESA Cloud_cci suite of long-term coherent cloud property datasets."}

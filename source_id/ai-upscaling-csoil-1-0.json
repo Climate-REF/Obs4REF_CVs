@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "ai-upscaling-csoil-1-0", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "ai-upscaling-csoil-1-0", "type": "source_id", "drs_name": "AI-upscaling-cSoil-1-0", "description": "Upscaling soil organic carbon measurements at the continental scale using multivariate clustering analysis and machine learning"}

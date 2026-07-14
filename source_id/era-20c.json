@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "era-20c", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "era-20c", "type": "source_id", "drs_name": "ERA-20C", "description": "ECMWF - ERA-20C (European ReAnalysis 1900-2010)"}

@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "gpcp-1dd-cdr-v1-3", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "gpcp-1dd-cdr-v1-3", "type": "source_id", "drs_name": "GPCP-1DD-CDR-v1-3", "description": "Daily GPCP CDR prepared for FROGS"}

@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "noaa-ncei-seawinds-1-2", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "noaa-ncei-seawinds-1-2", "type": "source_id", "drs_name": "NOAA-NCEI-SeaWinds-1-2", "description": "Blended Sea Surface Winds"}

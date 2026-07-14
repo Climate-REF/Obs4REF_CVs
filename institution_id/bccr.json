@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "bccr", "type": "institution_id"}
+{"@context": "000_context.jsonld", "id": "bccr", "type": "institution_id", "drs_name": "BCCR", "description": "Bolin Centre for Climate Research - Stockholm University, SE"}

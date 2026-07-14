@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "esso", "type": "institution"}
+{"@context": "000_context.jsonld", "id": "esso", "type": "institution_id", "drs_name": "ESSO", "description": "Indian National Centre for Ocean Information Services"}

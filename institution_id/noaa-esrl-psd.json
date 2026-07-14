@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "noaa-esrl-psd", "type": "institution"}
+{"@context": "000_context.jsonld", "id": "noaa-esrl-psd", "type": "institution_id", "drs_name": "NOAA-ESRL-PSD", "description": "NOAA Earth System Research Laboratory, Physical Sciences Division, Boulder, CO 80305, USA"}

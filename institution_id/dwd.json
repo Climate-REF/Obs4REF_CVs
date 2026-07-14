@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "dwd", "type": "institution"}
+{"@context": "000_context.jsonld", "id": "dwd", "type": "institution_id", "drs_name": "DWD", "description": "Deutscher Wetterdienst, Offenbach 63067, Germany"}

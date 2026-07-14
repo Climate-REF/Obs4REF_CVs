@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "calipso-icecloud-1-0", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "calipso-icecloud-1-0", "type": "source_id", "drs_name": "CALIPSO-ICECLOUD-1-0", "description": "Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation (CALIPSO) Ice cloud"}

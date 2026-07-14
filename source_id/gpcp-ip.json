@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "gpcp-ip", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "gpcp-ip", "type": "source_id", "drs_name": "GPCP-IP", "description": "NASA GPCP prepared for FROGS"}

@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "doess-uci", "type": "institution_id"}
+{"@context": "000_context.jsonld", "id": "doess-uci", "type": "institution_id", "drs_name": "DoESS-UCI", "description": "Department of Earth System Science, University of California Irvine"}

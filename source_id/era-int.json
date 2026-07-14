@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "era-int", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "era-int", "type": "source_id", "drs_name": "ERA-INT", "description": "ECMWF-ERAINT 1.0 (2010): ECMWF - ERAINT (European ReAnalysis 1989-2010)"}

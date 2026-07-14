@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "osisaf-v3", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "osisaf-v3", "type": "source_id", "drs_name": "OSISAF-V3", "description": "Sea Ice Concentration (SIC) CDR v3 from EUMETSAT OSI SAF / ESA CCI"}

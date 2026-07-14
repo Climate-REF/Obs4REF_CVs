@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "imerg-v06-fc", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "imerg-v06-fc", "type": "source_id", "drs_name": "IMERG-V06-FC", "description": "NASA IMERG prepared for FROGS"}

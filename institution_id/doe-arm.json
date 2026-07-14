@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "doe-arm", "type": "institution"}
+{"@context": "000_context.jsonld", "id": "doe-arm", "type": "institution_id", "drs_name": "DOE-ARM", "description": "U.S. Department of Energy, Atmospheric Radiation Measurment Program"}

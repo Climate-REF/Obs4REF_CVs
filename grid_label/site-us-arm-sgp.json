@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "site-us-arm-sgp", "type": "grid_label"}
+{"@context": "000_context.jsonld", "id": "site-us-arm-sgp", "type": "grid_label", "drs_name": "site-US-ARM-SGP", "description": "Testing manual entry"}

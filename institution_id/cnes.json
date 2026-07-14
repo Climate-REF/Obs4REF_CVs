@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "cnes", "type": "institution"}
+{"@context": "000_context.jsonld", "id": "cnes", "type": "institution_id", "drs_name": "CNES", "description": "Centre national d'etudes spatiales"}

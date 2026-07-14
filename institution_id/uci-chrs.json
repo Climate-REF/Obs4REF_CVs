@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "uci-chrs", "type": "institution"}
+{"@context": "000_context.jsonld", "id": "uci-chrs", "type": "institution_id", "drs_name": "UCI-CHRS", "description": "Center for Hydrometeorology and Remote Sensing"}

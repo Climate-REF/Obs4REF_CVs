@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "noaa-ncei-ersst-5-0", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "noaa-ncei-ersst-5-0", "type": "source_id", "drs_name": "NOAA-NCEI-ERSST-5-0", "description": "Extended Reconstructed Sea Surface Temperatures"}

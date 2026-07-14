@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "ornl", "type": "institution_id"}
+{"@context": "000_context.jsonld", "id": "ornl", "type": "institution_id", "drs_name": "ORNL", "description": "Oakridge National Laboratory, TN, USA"}

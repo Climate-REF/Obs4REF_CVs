@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "lai4g-1-2",
-    "type": "source"
-}
+{"@context": "000_context.jsonld", "id": "lai4g-1-2", "type": "source_id", "drs_name": "LAI4g-1-2", "description": "The Fourth Generation Global Inventory Modeling and Mapping Studies Leaf Area Index"}

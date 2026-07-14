@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "jaxa", "type": "institution"}
+{"@context": "000_context.jsonld", "id": "jaxa", "type": "institution_id", "drs_name": "JAXA", "description": "The Japan Aerospace Exploration Agency"}

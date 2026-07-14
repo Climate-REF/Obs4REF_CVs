@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "rss-smap-sss-v05r03", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "rss-smap-sss-v05r03", "type": "source_id", "drs_name": "RSS-SMAP-SSS-v05r03", "description": "Satellite derived SSS produced by RSS"}

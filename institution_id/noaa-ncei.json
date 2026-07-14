@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "noaa-ncei", "type": "institution"}
+{"@context": "000_context.jsonld", "id": "noaa-ncei", "type": "institution_id", "drs_name": "NOAA-NCEI", "description": "NOAA National Centers for Environmental Information, Asheville, NC 28801, USA"}

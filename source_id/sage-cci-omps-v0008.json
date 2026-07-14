@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "sage-cci-omps-v0008", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "sage-cci-omps-v0008", "type": "source_id", "drs_name": "SAGE-CCI-OMPS-v0008", "description": "Mole concentration of ozone in air"}

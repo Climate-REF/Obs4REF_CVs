@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "chirps-v3", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "chirps-v3", "type": "source_id", "drs_name": "CHIRPS-V3", "description": "CHIRPS Version 3.0"}

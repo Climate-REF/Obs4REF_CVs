@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "knmi-wur", "type": "institution_id"}
+{"@context": "000_context.jsonld", "id": "knmi-wur", "type": "institution_id", "drs_name": "KNMI-WUR", "description": "Multi-institute/agency collaboration"}

@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "gpcp-1dd", "type": "source_id"}
+{"@context": "000_context.jsonld", "id": "gpcp-1dd", "type": "source_id", "drs_name": "GPCP-1DD", "description": "Global Precipitation Climatology Project One Degree Daily"}

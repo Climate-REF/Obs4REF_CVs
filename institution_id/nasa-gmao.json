@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "nasa-gmao", "type": "institution_id"}
+{"@context": "000_context.jsonld", "id": "nasa-gmao", "type": "institution_id", "drs_name": "NASA-GMAO", "description": "NASA-GMAO (NASA Global Modeling and Assimilation Office),Greenbelt MD, USA"}
