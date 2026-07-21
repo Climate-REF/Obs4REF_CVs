@@ -2,9 +2,66 @@ schema_version: '1'
 project:
   id: obs4ref
   name: Obs4REF Controlled Vocabulary
-cv_version: 1.0.0
+cv_version: 2.0.0
 universe_version: 1.0.23
 esgvoc:
   min_version: 4.1.0
 release_notes: |
-  Initial manifest.
+  - attr_specs.yaml: new
+  - catalog_specs.yaml: new
+  - drs_specs.yaml: new
+  - project_specs.yaml: new
+  - activity_id: new collection model
+  - citation_url: new collection model
+  - contact: new collection model
+  - conventions: new collection model
+  - creation_date: new collection model
+  - data_specs_version: new collection model
+  - dataset_contributor: new collection model
+  - frequency: new collection model
+  - grid_label: new collection model
+  - institution_id: new collection model
+  - license: new collection model
+  - nominal_resolution: new collection model
+  - obs4MIPs_institution_id: updated collection model
+  - processing_code_location: new collection model
+  - product: new collection model
+  - realm: new collection model
+  - references: new collection model
+  - region: new collection model
+  - source_id: new collection model
+  - source_type: new collection model
+  - time_range: new collection model
+  - tracking_id: new collection model
+  - variable_id: new collection model
+  - variant_label: new collection model
+  - version: new collection model
+  - _CVs: 12 added
+  - activity_id: 1 added
+  - citation_url: 2 added
+  - contact: 1 added
+  - conventions: 2 added
+  - creation_date: 1 added
+  - data_specs_version: 2 added
+  - dataset_contributor: 1 added
+  - frequency: 24 added
+  - grid_label: 45 added
+  - institution_id: 33 added
+  - license: 1 added
+  - nominal_resolution: 15 added
+  - obs4MIPs_frequency: 4 removed
+  - obs4MIPs_institution_id: 2 removed
+  - obs4MIPs_license: 1 removed
+  - obs4MIPs_realm: 2 removed
+  - processing_code_location: 1 added
+  - product: 4 added
+  - realm: 12 added
+  - references: 1 added
+  - region: 68 added
+  - source_id: 22 added
+  - source_type: 5 added
+  - time_range: 3 added
+  - tracking_id: 2 added
+  - variable_id: 624 added
+  - variant_label: 2 added
+  - version: 2 added
