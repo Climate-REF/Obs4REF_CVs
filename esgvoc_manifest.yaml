@@ -2,14 +2,11 @@ schema_version: '1'
 project:
   id: obs4ref
   name: Obs4REF Controlled Vocabulary
-cv_version: 2.0.1
-universe_version: 1.0.23
+cv_version: 2.1.0
+universe_version: 1.0.32
 esgvoc:
   min_version: 4.1.0
 release_notes: |
-  - citation_url: 1 removed
-  - frequency: 8 removed
-  - realm: 4 removed
-  - tracking_id: 1 modified, 1 removed
-  - variable_id: 45 removed
-  - version: 1 removed
+  - attr_specs.yaml: updated
+  - catalog_specs.yaml: updated
+  - drs_specs.yaml: updated
