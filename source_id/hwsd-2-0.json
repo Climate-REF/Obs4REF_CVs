@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "hwsd-2-0",
-    "type": "source"
-}
+{"@context": "000_context.jsonld", "id": "hwsd-2-0", "type": "source_id", "drs_name": "HWSD-2-0", "description": "Harmonized World Soil Database version 2"}

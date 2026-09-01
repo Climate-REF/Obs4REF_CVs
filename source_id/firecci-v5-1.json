@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "firecci-v5-1",
-    "type": "source"
-}
+{"@context": "000_context.jsonld", "id": "firecci-v5-1", "type": "source_id", "drs_name": "FireCCI-v5-1", "description": "MODIS FireCCI Burned Area product"}

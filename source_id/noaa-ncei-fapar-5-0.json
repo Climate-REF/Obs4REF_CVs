@@ -1,0 +1,1 @@
+{"@context": "000_context.jsonld", "id": "noaa-ncei-fapar-5-0", "type": "source_id", "drs_name": "NOAA-NCEI-FAPAR-5-0", "description": "AVHRR Fraction of Absorbed Photosynthetically Active Radiation"}

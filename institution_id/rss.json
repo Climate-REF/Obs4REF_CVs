@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "rss",
-    "type": "organisation"
-}
+{"@context": "000_context.jsonld", "id": "rss", "type": "institution_id", "drs_name": "RSS", "description": "Remote Sensing Systems, Santa Rosa, CA USA"}

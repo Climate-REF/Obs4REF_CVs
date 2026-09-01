@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "tropflux-1-0",
-    "type": "source"
-}
+{"@context": "000_context.jsonld", "id": "tropflux-1-0", "type": "source_id", "drs_name": "TropFlux-1-0", "description": "TropFlux - Air-Sea Fluxes for the Global Tropical Oceans"}

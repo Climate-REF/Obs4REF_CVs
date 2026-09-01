@@ -1,0 +1,13 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "500-km",
+    "type": "nominal_resolution",
+    "description": "Should drs name include whitespace? Having whitespace in drs name isn't ideal, but if this will only ever be used in global attributes, it won't technically break things. 500.0km nominal resolution. This value isn't uniform, but provides an esimate of the resolution of the dataset on average.",
+    "drs_name": "500-km",
+    "magnitude": 500.0,
+    "range": [
+        360.0,
+        720.0
+    ],
+    "units": "km"
+}

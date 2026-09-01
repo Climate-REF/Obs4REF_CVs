@@ -1,8 +1,13 @@
 {
     "@context": {
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/nominal_resolution/",
+        "@vocab": "http://schema.org/",
         "id": "@id",
-        "type": "@type",
-        "@base": "https://esgvoc.ipsl.fr/resource/universe/resolution/",
-        "activity": "https://esgvoc.ipsl.fr/resource/universe/resolution"
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"},
+        "drs_name": {"@id": "acronym"},
+        "magnitude": {"@id": "https://schema.org/value"},
+        "range": {"@id": "https://schema.org/value"},
+        "units": {"@id": "https://schema.org/unitText"}
     }
 }

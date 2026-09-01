@@ -1,5 +1,10 @@
 {
     "@context": "000_context.jsonld",
+    "type": "activity",
     "id": "obs4ref",
-    "type": "activity"
+    "name": "obs4REF",
+    "cmip_acronym": "obs4REF",
+    "long_name": "Observations datasets for Rapid Evaluation Framework",
+    "url": "https://climserv.ipsl.polytechnique.fr/cfmip-obs/",
+    "drs_name": "obs4REF"
 }

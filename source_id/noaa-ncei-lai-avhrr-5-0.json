@@ -1,0 +1,1 @@
+{"@context": "000_context.jsonld", "id": "noaa-ncei-lai-avhrr-5-0", "type": "source_id", "drs_name": "NOAA-NCEI-LAI-AVHRR-5-0", "description": "Monthly Average of Daily Leaf Area Index from AVHRR"}

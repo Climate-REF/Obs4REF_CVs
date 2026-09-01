@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "pku",
-    "type": "organisation"
-}
+{"@context": "000_context.jsonld", "id": "pku", "type": "institution_id", "drs_name": "PKU", "description": "Peking University, Beijing, China"}
