@@ -1,5 +1,5 @@
 {
     "@context": "000_context.jsonld",
     "id": "imerg-v06-fc",
-    "type": "source_id"
+    "type": "source"
 }

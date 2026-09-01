@@ -1,5 +1,5 @@
 {
     "@context": "000_context.jsonld",
     "id": "esa-cci-sst-v3-0-1",
-    "type": "source_id"
+    "type": "source"
 }

@@ -1,5 +1,5 @@
 {
     "@context": "000_context.jsonld",
     "id": "woa2023",
-    "type": "source_id"
+    "type": "source"
 }

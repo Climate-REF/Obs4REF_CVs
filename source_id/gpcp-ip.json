@@ -1,5 +1,5 @@
 {
     "@context": "000_context.jsonld",
     "id": "gpcp-ip",
-    "type": "source_id"
+    "type": "source"
 }

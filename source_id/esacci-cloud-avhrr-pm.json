@@ -1,5 +1,5 @@
 {
     "@context": "000_context.jsonld",
     "id": "esacci-cloud-avhrr-pm",
-    "type": "source_id"
+    "type": "source"
 }

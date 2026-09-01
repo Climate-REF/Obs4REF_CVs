@@ -1,5 +1,5 @@
 {
     "@context": "000_context.jsonld",
     "id": "noaa-ncei-ndvi",
-    "type": "source_id"
+    "type": "source"
 }
