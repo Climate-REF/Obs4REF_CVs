@@ -1,1 +1,5 @@
-{"@context": "000_context.jsonld", "id": "fluxnet2015-1-0", "type": "source_id", "drs_name": "FLUXNET2015-1-0", "description": "FLUXNET Community Product"}
+{
+    "@context": "000_context.jsonld",
+    "id": "fluxnet2015-1-0",
+    "type": "source"
+}

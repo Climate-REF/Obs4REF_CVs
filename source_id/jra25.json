@@ -1,1 +1,5 @@
-{"@context": "000_context.jsonld", "id": "jra25", "type": "source_id", "drs_name": "JRA25", "description": "JRA25 1.0 (2002): JRA25 (Japanese ReAnalysis 1957-2002)"}
+{
+    "@context": "000_context.jsonld",
+    "id": "jra25",
+    "type": "source"
+}

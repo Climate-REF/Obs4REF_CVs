@@ -1,1 +1,5 @@
-{"@context": "000_context.jsonld", "id": "seaice", "type": "realm", "drs_name": "seaIce"}
+{
+  "@context": "000_context.jsonld",
+  "id": "seaice",
+  "type": "realm"
+}

@@ -1,1 +1,5 @@
-{"@context": "000_context.jsonld", "id": "noaa-ncei-lai-5-0", "type": "source_id", "drs_name": "NOAA-NCEI-LAI-5-0", "description": "AVHRR Leaf Area Index"}
+{
+    "@context": "000_context.jsonld",
+    "id": "noaa-ncei-lai-5-0",
+    "type": "source"
+}

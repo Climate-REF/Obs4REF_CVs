@@ -1,1 +1,5 @@
-{"@context": "000_context.jsonld", "id": "gpcp-sg-2-3", "type": "source_id", "drs_name": "GPCP-SG-2-3", "description": "Global Precipitation Climatology Project Satellite-Gauge"}
+{
+    "@context": "000_context.jsonld",
+    "id": "gpcp-sg-2-3",
+    "type": "source"
+}
