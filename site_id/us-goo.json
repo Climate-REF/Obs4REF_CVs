@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "us-goo",
+    "type": "site_id"
+}
