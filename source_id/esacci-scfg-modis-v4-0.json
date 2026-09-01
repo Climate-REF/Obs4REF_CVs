@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "esacci-scfg-modis-v4-0",
+    "type": "source"
+}

@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "gl-zaf",
+    "type": "site_id"
+}

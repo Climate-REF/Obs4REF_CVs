@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "au-rdf",
+    "type": "site_id"
+}

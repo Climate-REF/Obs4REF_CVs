@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "gsmap-v4",
+    "type": "source"
+}

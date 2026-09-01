@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "collection",
+    "type": "site_location"
+}

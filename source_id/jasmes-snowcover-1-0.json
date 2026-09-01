@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "jasmes-snowcover-1-0",
+    "type": "source"
+}

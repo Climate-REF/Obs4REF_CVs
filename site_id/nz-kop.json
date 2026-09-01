@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nz-kop",
+    "type": "site_id"
+}
