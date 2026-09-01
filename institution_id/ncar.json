@@ -1,1 +1,5 @@
-{"@context": "000_context.jsonld", "id": "ncar", "type": "institution_id", "drs_name": "NCAR", "description": "National Center for Atmospheric Research, Boulder, CO, USA"}
+{
+    "@context": "000_context.jsonld",
+    "id": "ncar",
+    "type": "institution_id"
+}

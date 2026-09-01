@@ -1,1 +1,5 @@
-{"@context": "000_context.jsonld", "id": "columbiau", "type": "institution_id", "drs_name": "ColumbiaU", "description": "Columbia University, NY, USA"}
+{
+    "@context": "000_context.jsonld",
+    "id": "columbiau",
+    "type": "institution_id"
+}

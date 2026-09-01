@@ -1,1 +1,5 @@
-{"@context": "000_context.jsonld", "id": "tes-1-0", "type": "source_id", "drs_name": "TES-1-0", "description": "Mole Fraction of O3"}
+{
+    "@context": "000_context.jsonld",
+    "id": "tes-1-0",
+    "type": "source_id"
+}

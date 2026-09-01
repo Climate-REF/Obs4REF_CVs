@@ -1,1 +1,5 @@
-{"@context": "000_context.jsonld", "id": "nclimgrid-monthly-1-0", "type": "source_id", "drs_name": "nClimGrid-Monthly-1-0", "description": "NOAA nClimGrid-Monthly"}
+{
+    "@context": "000_context.jsonld",
+    "id": "nclimgrid-monthly-1-0",
+    "type": "source_id"
+}

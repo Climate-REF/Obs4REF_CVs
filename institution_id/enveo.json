@@ -1,1 +1,5 @@
-{"@context": "000_context.jsonld", "id": "enveo", "type": "institution_id", "drs_name": "ENVEO", "description": "Environmental Earth Observation Information Technology GmbH, Innsbruck, Austria"}
+{
+    "@context": "000_context.jsonld",
+    "id": "enveo",
+    "type": "institution_id"
+}

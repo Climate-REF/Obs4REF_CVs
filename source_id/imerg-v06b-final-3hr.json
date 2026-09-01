@@ -1,1 +1,5 @@
-{"@context": "000_context.jsonld", "id": "imerg-v06b-final-3hr", "type": "source_id", "drs_name": "IMERG-V06B-Final-3hr", "description": "NASA IMERG averaged to 3-hourly maps"}
+{
+    "@context": "000_context.jsonld",
+    "id": "imerg-v06b-final-3hr",
+    "type": "source_id"
+}

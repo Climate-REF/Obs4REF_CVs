@@ -1,1 +1,5 @@
-{"@context": "000_context.jsonld", "id": "imerg-v06b-final", "type": "source_id", "drs_name": "IMERG-v06B-Final", "description": "Integrated Multi-satellitE Retrievals for Global Precipitation Measurement (IMERG)"}
+{
+    "@context": "000_context.jsonld",
+    "id": "imerg-v06b-final",
+    "type": "source_id"
+}

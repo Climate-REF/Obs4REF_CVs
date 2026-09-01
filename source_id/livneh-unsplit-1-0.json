@@ -1,1 +1,5 @@
-{"@context": "000_context.jsonld", "id": "livneh-unsplit-1-0", "type": "source_id", "drs_name": "livneh-unsplit-1-0", "description": "Livneh daily CONUS unsplit"}
+{
+    "@context": "000_context.jsonld",
+    "id": "livneh-unsplit-1-0",
+    "type": "source_id"
+}

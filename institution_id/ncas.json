@@ -1,1 +1,5 @@
-{"@context": "000_context.jsonld", "id": "ncas", "type": "institution_id", "drs_name": "NCAS", "description": "National Centre for Atmospheric Science"}
+{
+    "@context": "000_context.jsonld",
+    "id": "ncas",
+    "type": "institution_id"
+}

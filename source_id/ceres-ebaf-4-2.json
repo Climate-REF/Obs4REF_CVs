@@ -1,1 +1,5 @@
-{"@context": "000_context.jsonld", "id": "ceres-ebaf-4-2", "type": "source_id", "drs_name": "CERES-EBAF-4-2", "description": "CERES EBAF (Energy Balanced and Filled) TOA Fluxes. Monthly Averages"}
+{
+    "@context": "000_context.jsonld",
+    "id": "ceres-ebaf-4-2",
+    "type": "source_id"
+}
