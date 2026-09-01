@@ -1,0 +1,1 @@
+{"@context": "000_context.jsonld", "id": "cci-cryoclim-fsc-1", "type": "source_id", "drs_name": "CCI-CryoClim-FSC-1", "description": "Fractional Snow Cover CDR v1 from ESA CCI / CryoClim"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "nasa-gsfc",
-    "type": "organisation"
-}
+{"@context": "000_context.jsonld", "id": "nasa-gsfc", "type": "institution_id", "drs_name": "NASA-GSFC", "description": "NASA Goddard Space Flight Center, Greenbelt MD, USA"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ceda",
-    "type": "organisation"
-}
+{"@context": "000_context.jsonld", "id": "ceda", "type": "institution_id", "drs_name": "CEDA", "description": "Centre for Environmental Data Analysis, RAL Space, STFC Rutherford Appleton Laboratory, Chilton, Didcot; National Centre for Earth Observation, UK"}

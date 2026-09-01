@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "era-5",
-    "type": "source"
-}
+{"@context": "000_context.jsonld", "id": "era-5", "type": "source_id", "drs_name": "ERA-5", "description": "ECMWF - ERA5 (European ReAnalysis)"}

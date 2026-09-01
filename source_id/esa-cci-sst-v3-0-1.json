@@ -1,0 +1,1 @@
+{"@context": "000_context.jsonld", "id": "esa-cci-sst-v3-0-1", "type": "source_id", "drs_name": "ESA-CCI-SST-v3-0-1", "description": "Sea Surface Temperature (SST) from the ESA SST CCI Climate Data Record version 3.0"}

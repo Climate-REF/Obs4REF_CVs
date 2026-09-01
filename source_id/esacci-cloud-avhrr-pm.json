@@ -1,0 +1,1 @@
+{"@context": "000_context.jsonld", "id": "esacci-cloud-avhrr-pm", "type": "source_id", "drs_name": "ESACCI-CLOUD-AVHRR-PM", "description": "Cloud properties derived from AVHRR (aboard NOAA and MetOp PM) measurements. This dataset belongs to the ESA Cloud_cci suite of long-term coherent cloud property datasets."}
