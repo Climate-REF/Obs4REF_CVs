@@ -2,9 +2,28 @@ schema_version: '1'
 project:
   id: obs4ref
   name: Obs4REF Controlled Vocabulary
-cv_version: 1.0.0
-universe_version: 1.0.23
+cv_version: 3.0.0
+universe_version: 3.0.0
 esgvoc:
   min_version: 4.1.0
 release_notes: |
-  Initial manifest.
+  - aux_uncertainty_id: new collection model
+  - has_aux_unc: new collection model
+  - nominal_resolution: updated collection model
+  - site_id: new collection model
+  - site_location: new collection model
+  - source_id: updated collection model
+  - _CVs: 12 removed
+  - activity_id: 1 modified
+  - aux_uncertainty_id: 9 added
+  - conventions: 1 added
+  - frequency: 4 modified
+  - grid_label: 2 added
+  - has_aux_unc: 2 added
+  - institution_id: 19 added, 32 modified
+  - nominal_resolution: 19 added, 1 modified, 14 removed
+  - realm: 4 modified
+  - site_id: 267 added
+  - site_location: 1 added
+  - source_id: 136 added, 22 modified
+  - source_type: 1 added
