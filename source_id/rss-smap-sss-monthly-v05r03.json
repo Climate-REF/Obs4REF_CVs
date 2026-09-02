@@ -1,0 +1,5 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rss-smap-sss-monthly-v05r03",
+    "type": "source"
+}

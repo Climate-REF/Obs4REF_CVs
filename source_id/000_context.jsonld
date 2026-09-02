@@ -20,7 +20,7 @@
             "@id": "https://schema.org/url"
         },
         "institution_id": {
-            "@id": "https://esgvoc.ipsl.fr/resource/universe/institution"
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/organisation"
         },
         "license_id": {
             "@id": "https://schema.org/license"
