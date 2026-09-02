@@ -1,1 +1,1 @@
-{"@context": "000_context.jsonld", "id": "site", "type": "nominal_resolution"}
+{"@context": "000_context.jsonld", "id": "site", "type": "nominal_resolution", "drs_name": "site"}
