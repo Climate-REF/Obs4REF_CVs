@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ca-qfo",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ca-qfo", "type": "site_id", "drs_name": "CA-Qfo", "description": "location: Quebec - Eastern Boreal, Mature Black Spruce,latitude: 49.6925,longitude: -74.3421"}

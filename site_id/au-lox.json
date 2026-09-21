@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-lox",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-lox", "type": "site_id", "drs_name": "AU-Lox", "description": "location: Loxton,latitude: -34.4704,longitude: 140.6551"}

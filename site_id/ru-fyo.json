@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ru-fyo",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ru-fyo", "type": "site_id", "drs_name": "RU-Fyo", "description": "location: Fyodorovskoye,latitude: 56.4615,longitude: 32.9221"}

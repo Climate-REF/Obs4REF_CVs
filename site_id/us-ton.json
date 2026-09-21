@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-ton",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-ton", "type": "site_id", "drs_name": "US-Ton", "description": "location: Tonzi Ranch,latitude: 38.4309,longitude: -120.9660"}

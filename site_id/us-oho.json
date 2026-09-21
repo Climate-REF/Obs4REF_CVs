@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-oho",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-oho", "type": "site_id", "drs_name": "US-Oho", "description": "location: Oak Openings,latitude: 41.5545,longitude: -83.8438"}

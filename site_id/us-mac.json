@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-mac",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-mac", "type": "site_id", "drs_name": "US-MAC", "description": "location: MacArthur Agro-Ecology,latitude: 27.1632,longitude: -81.1873"}

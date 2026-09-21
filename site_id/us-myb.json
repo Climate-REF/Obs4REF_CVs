@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-myb",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-myb", "type": "site_id", "drs_name": "US-Myb", "description": "location: Mayberry Wetland,latitude: 38.0499,longitude: -121.7650"}

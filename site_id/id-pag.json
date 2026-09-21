@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "id-pag",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "id-pag", "type": "site_id", "drs_name": "ID-Pag", "description": "location: Palangkaraya undrained forest,latitude: -2.3200,longitude: 113.9000"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-la1",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-la1", "type": "site_id", "drs_name": "US-LA1", "description": "location: Pointe-aux-Chenes Brackish Marsh,latitude: 29.5013,longitude: -90.4449"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ca-scb",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ca-scb", "type": "site_id", "drs_name": "CA-SCB", "description": "location: Scotty Creek Bog,latitude: 61.3089,longitude: -121.2984"}

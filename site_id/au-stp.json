@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-stp",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-stp", "type": "site_id", "drs_name": "AU-Stp", "description": "location: Sturt Plains,latitude: -17.1507,longitude: 133.3502"}

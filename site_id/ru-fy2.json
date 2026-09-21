@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ru-fy2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ru-fy2", "type": "site_id", "drs_name": "RU-Fy2", "description": "location: Fyodorovskoye dry spruce,latitude: 56.4476,longitude: 32.9019"}

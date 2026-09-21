@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "be-vie",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "be-vie", "type": "site_id", "drs_name": "BE-Vie", "description": "location: Vielsalm,latitude: 50.3049,longitude: 5.9981"}

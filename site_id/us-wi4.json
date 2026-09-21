@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-wi4",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-wi4", "type": "site_id", "drs_name": "US-Wi4", "description": "location: Mature red pine (MRP),latitude: 46.7393,longitude: -91.1663"}

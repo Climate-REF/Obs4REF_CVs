@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-ar2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-ar2", "type": "site_id", "drs_name": "US-AR2", "description": "location: ARM USDA UNL OSU Woodward Switchgrass 2,latitude: 36.6358,longitude: -99.5975"}

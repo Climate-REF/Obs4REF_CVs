@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-das",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-das", "type": "site_id", "drs_name": "AU-DaS", "description": "location: Daly River Savanna,latitude: -14.1593,longitude: 131.3881"}

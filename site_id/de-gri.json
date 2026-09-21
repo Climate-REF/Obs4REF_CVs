@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "de-gri",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "de-gri", "type": "site_id", "drs_name": "DE-Gri", "description": "location: Grillenburg,latitude: 50.9500,longitude: 13.5126"}

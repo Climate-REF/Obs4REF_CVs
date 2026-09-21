@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-stj",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-stj", "type": "site_id", "drs_name": "US-StJ", "description": "location: St Jones Reserve,latitude: 39.0882,longitude: -75.4372"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-wi2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-wi2", "type": "site_id", "drs_name": "US-Wi2", "description": "location: Intermediate red pine (IRP),latitude: 46.6869,longitude: -91.1528"}

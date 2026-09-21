@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "nl-loo",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "nl-loo", "type": "site_id", "drs_name": "NL-Loo", "description": "location: Loobos,latitude: 52.1666,longitude: 5.7436"}

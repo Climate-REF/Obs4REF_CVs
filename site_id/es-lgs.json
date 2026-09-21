@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "es-lgs",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "es-lgs", "type": "site_id", "drs_name": "ES-LgS", "description": "location: Laguna Seca,latitude: 37.0979,longitude: -2.9658"}

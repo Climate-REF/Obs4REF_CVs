@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "fi-sod",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "fi-sod", "type": "site_id", "drs_name": "FI-Sod", "description": "location: Sodankyla,latitude: 67.3624,longitude: 26.6386"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "jp-bby",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "jp-bby", "type": "site_id", "drs_name": "JP-BBY", "description": "location: Bibai bog,latitude: 43.3230,longitude: 141.8107"}

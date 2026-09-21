@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "hk-mpm",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "hk-mpm", "type": "site_id", "drs_name": "HK-MPM", "description": "location: Mai Po Mangrove,latitude: 22.4982,longitude: 114.0292"}

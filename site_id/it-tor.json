@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "it-tor",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "it-tor", "type": "site_id", "drs_name": "IT-Tor", "description": "location: Torgnon,latitude: 45.8444,longitude: 7.5781"}

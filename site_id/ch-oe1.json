@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ch-oe1",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ch-oe1", "type": "site_id", "drs_name": "CH-Oe1", "description": "location: Oensingen grassland,latitude: 47.2858,longitude: 7.7319"}

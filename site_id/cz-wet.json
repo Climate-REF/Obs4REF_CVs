@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "cz-wet",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "cz-wet", "type": "site_id", "drs_name": "CZ-wet", "description": "location: Trebon (CZECHWET),latitude: 49.0247,longitude: 14.7704"}

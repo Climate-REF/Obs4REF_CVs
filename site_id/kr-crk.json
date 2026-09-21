@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "kr-crk",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "kr-crk", "type": "site_id", "drs_name": "KR-CRK", "description": "location: Cheorwon Rice paddy,latitude: 38.2013,longitude: 127.2506"}

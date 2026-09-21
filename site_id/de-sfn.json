@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "de-sfn",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "de-sfn", "type": "site_id", "drs_name": "DE-SfN", "description": "location: Schechenfilz Nord,latitude: 47.8064,longitude: 11.3275"}

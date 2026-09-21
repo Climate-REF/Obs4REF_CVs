@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "de-seh",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "de-seh", "type": "site_id", "drs_name": "DE-Seh", "description": "location: Selhausen,latitude: 50.8706,longitude: 6.4497"}

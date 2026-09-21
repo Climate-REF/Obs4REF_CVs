@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "gh-ank",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "gh-ank", "type": "site_id", "drs_name": "GH-Ank", "description": "location: Ankasa,latitude: 5.2685,longitude: -2.6942"}

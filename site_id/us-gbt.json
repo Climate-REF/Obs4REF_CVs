@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-gbt",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-gbt", "type": "site_id", "drs_name": "US-GBT", "description": "location: GLEES Brooklyn Tower,latitude: 41.3658,longitude: -106.2397"}

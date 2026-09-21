@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-nr1",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-nr1", "type": "site_id", "drs_name": "US-NR1", "description": "location: Niwot Ridge Forest (LTER NWT1),latitude: 40.0329,longitude: -105.5464"}

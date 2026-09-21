@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-mrm",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-mrm", "type": "site_id", "drs_name": "US-MRM", "description": "location: Marsh Resource Meadowlands Mitigation Bank,latitude: 40.8164,longitude: -74.0435"}

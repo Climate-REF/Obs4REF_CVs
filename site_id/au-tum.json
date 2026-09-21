@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-tum",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-tum", "type": "site_id", "drs_name": "AU-Tum", "description": "location: Tumbarumba,latitude: -35.6566,longitude: 148.1517"}

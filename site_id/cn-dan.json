@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "cn-dan",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "cn-dan", "type": "site_id", "drs_name": "CN-Dan", "description": "location: Dangxiong,latitude: 30.4978,longitude: 91.0664"}

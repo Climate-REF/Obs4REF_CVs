@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-dpw",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-dpw", "type": "site_id", "drs_name": "US-DPW", "description": "location: Disney Wilderness Preserve Wetland,latitude: 28.0521,longitude: -81.4361"}

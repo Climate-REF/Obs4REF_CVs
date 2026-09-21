@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-rob",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-rob", "type": "site_id", "drs_name": "AU-Rob", "description": "location: Robson Creek, Queensland, Australia,latitude: -17.1175,longitude: 145.6301"}

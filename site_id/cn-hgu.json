@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "cn-hgu",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "cn-hgu", "type": "site_id", "drs_name": "CN-Hgu", "description": "location: Hongyuan,latitude: 32.8453,longitude: 102.5900"}

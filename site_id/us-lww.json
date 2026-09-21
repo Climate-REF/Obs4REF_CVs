@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-lww",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-lww", "type": "site_id", "drs_name": "US-LWW", "description": "location: Little Washita Watershed,latitude: 34.9604,longitude: -97.9789"}

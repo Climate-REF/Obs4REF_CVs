@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-ade",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-ade", "type": "site_id", "drs_name": "AU-Ade", "description": "location: Adelaide River,latitude: -13.0769,longitude: 131.1178"}

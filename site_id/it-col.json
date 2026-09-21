@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "it-col",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "it-col", "type": "site_id", "drs_name": "IT-Col", "description": "location: Collelongo,latitude: 41.8494,longitude: 13.5881"}

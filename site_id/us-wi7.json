@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-wi7",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-wi7", "type": "site_id", "drs_name": "US-Wi7", "description": "location: Red pine clearcut (RPCC),latitude: 46.6491,longitude: -91.0693"}

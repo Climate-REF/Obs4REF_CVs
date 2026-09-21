@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "pa-sps",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "pa-sps", "type": "site_id", "drs_name": "PA-SPs", "description": "location: Sardinilla-Pasture,latitude: 9.3138,longitude: -79.6314"}

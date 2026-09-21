@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "cn-cha",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "cn-cha", "type": "site_id", "drs_name": "CN-Cha", "description": "location: Changbaishan,latitude: 42.4025,longitude: 128.0958"}

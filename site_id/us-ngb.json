@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-ngb",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-ngb", "type": "site_id", "drs_name": "US-NGB", "description": "location: NGEE Arctic Barrow,latitude: 71.2800,longitude: -156.6092"}

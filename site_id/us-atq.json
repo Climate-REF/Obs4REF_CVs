@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-atq",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-atq", "type": "site_id", "drs_name": "US-Atq", "description": "location: Atqasuk,latitude: 70.4696,longitude: -157.4089"}

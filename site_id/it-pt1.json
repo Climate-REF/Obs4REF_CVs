@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "it-pt1",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "it-pt1", "type": "site_id", "drs_name": "IT-PT1", "description": "location: Parco Ticino forest,latitude: 45.2009,longitude: 9.0610"}

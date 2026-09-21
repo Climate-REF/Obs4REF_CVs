@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-wi8",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-wi8", "type": "site_id", "drs_name": "US-Wi8", "description": "location: Young hardwood clearcut (YHW),latitude: 46.7223,longitude: -91.2524"}

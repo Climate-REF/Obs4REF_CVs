@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-orv",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-orv", "type": "site_id", "drs_name": "US-ORv", "description": "location: Olentangy River Wetland Research Park,latitude: 40.0201,longitude: -83.0183"}

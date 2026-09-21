@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-pfa",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-pfa", "type": "site_id", "drs_name": "US-PFa", "description": "location: Park Falls/WLEF,latitude: 45.9459,longitude: -90.2723"}

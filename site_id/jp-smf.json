@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "jp-smf",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "jp-smf", "type": "site_id", "drs_name": "JP-SMF", "description": "location: Seto Mixed Forest Site,latitude: 35.2617,longitude: 137.0788"}
