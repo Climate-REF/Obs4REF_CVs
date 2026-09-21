@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "g229",
+  "type": "grid",
+  "description": "Horizontal grid cell with a regular lat lon grid type and 4 x 4 km resolution.",
+  "drs_name": "g229",
+  "region": "greenland"
+}

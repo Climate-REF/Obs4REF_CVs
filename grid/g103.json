@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "g103",
+  "type": "grid",
+  "description": "U-grid cells on ocean tripolar configuration (eORCA1) for x-velocity.",
+  "drs_name": "g103",
+  "region": "global"
+}

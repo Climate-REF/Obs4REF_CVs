@@ -1,0 +1,15 @@
+{
+    "@context": {
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/grid/",
+        "@vocab": "http://schema.org/",
+        "id": "@id",
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"},
+        "drs_name": {"@id": "acronym"},
+        "region":{ 
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/region/",
+            "@type":"@id",
+            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/region/"}
+        }
+    }
+}

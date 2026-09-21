@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "gnz",
+    "name": "gnz",
+    "description": "zonal mean data reported on a model's native latitude grid",
+    "region": "greenland",
+    "type": "grid",
+    "short_name": "Grid Native Greenland Zonal Mean",
+    "drs_name": "gnz"
+}

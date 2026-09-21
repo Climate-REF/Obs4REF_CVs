@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "site-us-arm-sgp",
+    "type": "grid",
+    "name": "site-us-arm-sgp",
+    "drs_name": "site-US-ARM-SGP",
+    "description": "Testing manual entry",
+    "region": "global"
+}

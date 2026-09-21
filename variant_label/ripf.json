@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ripf",
+    "type": "variant_label",
+    "description": "This composite term with no separator thing is annoying because it's possible for variant label and e.g. forcing_index to be out of sync. Is regexp missing from context? Identifier of the realisation (variation over stochastic changes), initialisation, physics and forcing used in a simulation. The parts do not have a separator, which is why this is a pattern term and not a composite term.",
+    "regex": "^r\\d+i(\\d{4}\\d{2}[abcde]?|\\d+)p\\d+f\\d+$"
+}
