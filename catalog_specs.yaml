@@ -1,6 +1,6 @@
 # STAC CATALOG SPECIFICATIONS
 
-version: v1.0.2
+version: v1.1.0
 
 catalog_properties:
   name: stac
@@ -11,7 +11,7 @@ catalog_properties:
     - name: alternate-assets
       version: v1.2.0
   regex_id: '^obs4REF(\.[A-Za-z0-9-]+){5}\.v[0-9]{8}$'
-  regex_base_id: '^obs4REF(\.[A-Za-z0-9-]+){5}$'
+  regex_title: '^obs4REF(\.[A-Za-z0-9-]+){5}$'
 
 dataset_properties:
   - source_collection: activity_id
@@ -90,12 +90,6 @@ dataset_properties:
   - source_collection: variable_id
     source_collection_key: long_name
     catalog_field_name: variable_long_name
-    catalog_field_value_type: string
-    is_required: true
-
-  - source_collection: variable_id
-    source_collection_key: units
-    catalog_field_name: variable_units
     catalog_field_value_type: string
     is_required: true
 
