@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "10000-km",
-    "type": "nominal_resolution"
-}
+{"@context": "000_context.jsonld", "id": "10000-km", "type": "nominal_resolution", "drs_name": "10000 km"}

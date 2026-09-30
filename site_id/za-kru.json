@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "za-kru",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "za-kru", "type": "site_id", "drs_name": "ZA-Kru", "description": "location: Skukuza,latitude: -25.0197,longitude: 31.4969"}

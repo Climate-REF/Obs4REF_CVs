@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-gww",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-gww", "type": "site_id", "drs_name": "AU-GWW", "description": "location: Great Western Woodlands, Western Australia, Australia,latitude: -30.1913,longitude: 120.6541"}

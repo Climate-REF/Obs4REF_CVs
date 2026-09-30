@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ru-ch2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ru-ch2", "type": "site_id", "drs_name": "RU-Ch2", "description": "location: Chersky reference,latitude: 68.6169,longitude: 161.3509"}

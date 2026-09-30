@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "cn-du3",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "cn-du3", "type": "site_id", "drs_name": "CN-Du3", "description": "location: Duolun Degraded Meadow,latitude: 42.0551,longitude: 116.2809"}

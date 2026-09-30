@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ch-lae",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ch-lae", "type": "site_id", "drs_name": "CH-Lae", "description": "location: Laegern,latitude: 47.4783,longitude: 8.3644"}

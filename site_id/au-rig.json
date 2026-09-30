@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-rig",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-rig", "type": "site_id", "drs_name": "AU-Rig", "description": "location: Riggs Creek,latitude: -36.6499,longitude: 145.5759"}

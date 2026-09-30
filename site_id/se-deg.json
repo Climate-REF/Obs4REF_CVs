@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "se-deg",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "se-deg", "type": "site_id", "drs_name": "SE-Deg", "description": "location: Degero,latitude: 64.1820,longitude: 19.5565"}

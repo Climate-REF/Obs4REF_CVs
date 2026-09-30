@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-umb",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-umb", "type": "site_id", "drs_name": "US-UMB", "description": "location: Univ. of Mich. Biological Station,latitude: 45.5598,longitude: -84.7138"}

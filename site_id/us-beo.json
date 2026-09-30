@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-beo",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-beo", "type": "site_id", "drs_name": "US-Beo", "description": "location: Barrow Environmental Observatory (BEO) tower,latitude: 71.2810,longitude: -156.6123"}

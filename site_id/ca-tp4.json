@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ca-tp4",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ca-tp4", "type": "site_id", "drs_name": "CA-TP4", "description": "location: Ontario - Turkey Point 1939 Plantation White Pine,latitude: 42.7102,longitude: -80.3574"}

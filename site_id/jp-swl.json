@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "jp-swl",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "jp-swl", "type": "site_id", "drs_name": "JP-SwL", "description": "location: Suwa Lake,latitude: 36.0466,longitude: 138.1084"}

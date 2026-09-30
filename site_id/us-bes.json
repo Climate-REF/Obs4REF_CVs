@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-bes",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-bes", "type": "site_id", "drs_name": "US-Bes", "description": "location: Barrow-Bes (Biocomplexity Experiment South tower),latitude: 71.2809,longitude: -156.5965"}

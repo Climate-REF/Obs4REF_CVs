@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-ks2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-ks2", "type": "site_id", "drs_name": "US-KS2", "description": "location: Kennedy Space Center (scrub oak),latitude: 28.6086,longitude: -80.6715"}

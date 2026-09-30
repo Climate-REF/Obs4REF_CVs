@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-me3",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-me3", "type": "site_id", "drs_name": "US-Me3", "description": "location: Metolius-second young aged pine,latitude: 44.3154,longitude: -121.6078"}

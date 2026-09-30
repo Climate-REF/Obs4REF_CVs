@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-whr",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-whr", "type": "site_id", "drs_name": "AU-Whr", "description": "location: Whroo,latitude: -36.6732,longitude: 145.0294"}

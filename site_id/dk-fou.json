@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "dk-fou",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "dk-fou", "type": "site_id", "drs_name": "DK-Fou", "description": "location: Foulum,latitude: 56.4842,longitude: 9.5872"}

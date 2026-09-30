@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-wpt",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-wpt", "type": "site_id", "drs_name": "US-WPT", "description": "location: Winous Point North Marsh,latitude: 41.4646,longitude: -82.9962"}

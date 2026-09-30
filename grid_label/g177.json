@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "g177",
+  "type": "grid",
+  "description": "Horizontal grid cell with a spectral reduced gaussian grid type.",
+  "drs_name": "g177",
+  "region": "global"
+}

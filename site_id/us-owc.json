@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-owc",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-owc", "type": "site_id", "drs_name": "US-OWC", "description": "location: Old Woman Creek,latitude: 41.3795,longitude: -82.5125"}

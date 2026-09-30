@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-mms",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-mms", "type": "site_id", "drs_name": "US-MMS", "description": "location: Morgan Monroe State Forest,latitude: 39.3232,longitude: -86.4131"}

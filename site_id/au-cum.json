@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-cum",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-cum", "type": "site_id", "drs_name": "AU-Cum", "description": "location: Cumberland Plain,latitude: -33.6152,longitude: 150.7236"}

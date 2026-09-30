@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ch-dav",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ch-dav", "type": "site_id", "drs_name": "CH-Dav", "description": "location: Davos,latitude: 46.8153,longitude: 9.8559"}

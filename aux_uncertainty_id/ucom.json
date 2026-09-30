@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ucom",
-    "type": "aux_uncertainty_id"
-}
+{"@context": "000_context.jsonld", "id": "ucom", "type": "aux_uncertainty_id", "description": "uncertainty due to common effects"}

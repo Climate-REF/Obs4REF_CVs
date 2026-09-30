@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "cn-du2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "cn-du2", "type": "site_id", "drs_name": "CN-Du2", "description": "location: Duolun_grassland (D01),latitude: 42.0467,longitude: 116.2836"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "nobs",
-    "type": "aux_uncertainty_id"
-}
+{"@context": "000_context.jsonld", "id": "nobs", "type": "aux_uncertainty_id", "description": "number of observations"}

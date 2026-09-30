@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-src",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-src", "type": "site_id", "drs_name": "US-SRC", "description": "location: Santa Rita Creosote,latitude: 31.9083,longitude: -110.8395"}

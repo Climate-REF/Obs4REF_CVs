@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-eml",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-eml", "type": "site_id", "drs_name": "US-EML", "description": "location: Eight Mile Lake Permafrost thaw gradient, Healy Alaska.,latitude: 63.8784,longitude: -149.2536"}

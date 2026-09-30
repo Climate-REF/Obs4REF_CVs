@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-blo",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-blo", "type": "site_id", "drs_name": "US-Blo", "description": "location: Blodgett Forest,latitude: 38.8953,longitude: -120.6328"}

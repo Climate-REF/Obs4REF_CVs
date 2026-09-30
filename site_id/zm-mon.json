@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "zm-mon",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "zm-mon", "type": "site_id", "drs_name": "ZM-Mon", "description": "location: Mongu,latitude: -15.4391,longitude: 23.2525"}

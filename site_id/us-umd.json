@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-umd",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-umd", "type": "site_id", "drs_name": "US-UMd", "description": "location: UMBS Disturbance,latitude: 45.5625,longitude: -84.6975"}

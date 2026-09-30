@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "dk-eng",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "dk-eng", "type": "site_id", "drs_name": "DK-Eng", "description": "location: Enghave,latitude: 55.6905,longitude: 12.1918"}

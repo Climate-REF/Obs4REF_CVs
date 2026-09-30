@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "cg-tch",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "cg-tch", "type": "site_id", "drs_name": "CG-Tch", "description": "location: Tchizalamou,latitude: -4.2892,longitude: 11.6564"}

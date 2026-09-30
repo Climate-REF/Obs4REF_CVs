@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-la2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-la2", "type": "site_id", "drs_name": "US-LA2", "description": "location: Salvador WMA Freshwater Marsh,latitude: 29.8587,longitude: -90.2869"}

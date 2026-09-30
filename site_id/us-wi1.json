@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-wi1",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-wi1", "type": "site_id", "drs_name": "US-Wi1", "description": "location: Intermediate hardwood (IHW),latitude: 46.7305,longitude: -91.2329"}

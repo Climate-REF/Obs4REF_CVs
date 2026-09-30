@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "uk-lbt",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "uk-lbt", "type": "site_id", "drs_name": "UK-LBT", "description": "location: London_BT,latitude: 51.5215,longitude: -0.1389"}

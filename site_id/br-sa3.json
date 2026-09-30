@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "br-sa3",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "br-sa3", "type": "site_id", "drs_name": "BR-Sa3", "description": "location: Santarem-Km83-Logged Forest,latitude: -3.0180,longitude: -54.9714"}

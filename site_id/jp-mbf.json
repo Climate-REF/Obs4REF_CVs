@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "jp-mbf",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "jp-mbf", "type": "site_id", "drs_name": "JP-MBF", "description": "location: Moshiri Birch Forest Site,latitude: 44.3869,longitude: 142.3186"}

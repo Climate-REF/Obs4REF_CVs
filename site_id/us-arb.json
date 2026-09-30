@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-arb",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-arb", "type": "site_id", "drs_name": "US-ARb", "description": "location: ARM Southern Great Plains burn site- Lamont,latitude: 35.5497,longitude: -98.0402"}

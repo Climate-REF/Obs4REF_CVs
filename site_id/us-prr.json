@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-prr",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-prr", "type": "site_id", "drs_name": "US-Prr", "description": "location: Poker Flat Research Range Black Spruce Forest,latitude: 65.1237,longitude: -147.4876"}

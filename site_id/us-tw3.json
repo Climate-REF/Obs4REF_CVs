@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-tw3",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-tw3", "type": "site_id", "drs_name": "US-Tw3", "description": "location: Twitchell Alfalfa,latitude: 38.1152,longitude: -121.6469"}

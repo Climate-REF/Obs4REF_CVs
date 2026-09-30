@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-tw5",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-tw5", "type": "site_id", "drs_name": "US-Tw5", "description": "location: East Pond Wetland,latitude: 38.1072,longitude: -121.6426"}

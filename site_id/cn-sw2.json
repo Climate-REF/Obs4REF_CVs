@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "cn-sw2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "cn-sw2", "type": "site_id", "drs_name": "CN-Sw2", "description": "location: Siziwang Grazed (SZWG),latitude: 41.7902,longitude: 111.8971"}

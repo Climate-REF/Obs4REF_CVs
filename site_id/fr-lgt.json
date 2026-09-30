@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "fr-lgt",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "fr-lgt", "type": "site_id", "drs_name": "FR-LGt", "description": "location: La Guette,latitude: 47.3229,longitude: 2.2841"}

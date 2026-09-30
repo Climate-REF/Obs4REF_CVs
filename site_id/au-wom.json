@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-wom",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-wom", "type": "site_id", "drs_name": "AU-Wom", "description": "location: Wombat,latitude: -37.4222,longitude: 144.0944"}

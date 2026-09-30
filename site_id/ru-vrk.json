@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ru-vrk",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ru-vrk", "type": "site_id", "drs_name": "RU-Vrk", "description": "location: Seida/Vorkuta,latitude: 67.0547,longitude: 62.9405"}

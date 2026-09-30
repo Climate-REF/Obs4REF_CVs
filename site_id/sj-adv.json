@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "sj-adv",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "sj-adv", "type": "site_id", "drs_name": "SJ-Adv", "description": "location: Adventdalen,latitude: 78.1860,longitude: 15.9230"}

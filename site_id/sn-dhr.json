@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "sn-dhr",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "sn-dhr", "type": "site_id", "drs_name": "SN-Dhr", "description": "location: Dahra,latitude: 15.4028,longitude: -15.4322"}

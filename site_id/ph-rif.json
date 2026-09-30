@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ph-rif",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ph-rif", "type": "site_id", "drs_name": "PH-RiF", "description": "location: Philippines Rice Institute flooded,latitude: 14.1412,longitude: 121.2653"}

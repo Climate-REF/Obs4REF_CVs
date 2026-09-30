@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-ics",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-ics", "type": "site_id", "drs_name": "US-ICs", "description": "location: Imnavait Creek Watershed Wet Sedge Tundra,latitude: 68.6058,longitude: -149.3110"}

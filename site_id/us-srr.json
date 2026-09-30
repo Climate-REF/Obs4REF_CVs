@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-srr",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-srr", "type": "site_id", "drs_name": "US-Srr", "description": "location: Suisun marsh - Rush Ranch,latitude: 38.2006,longitude: -122.0264"}

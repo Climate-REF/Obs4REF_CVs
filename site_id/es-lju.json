@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "es-lju",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "es-lju", "type": "site_id", "drs_name": "ES-LJu", "description": "location: Llano de los Juanes,latitude: 36.9266,longitude: -2.7521"}

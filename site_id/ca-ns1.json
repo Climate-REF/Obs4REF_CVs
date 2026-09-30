@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ca-ns1",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ca-ns1", "type": "site_id", "drs_name": "CA-NS1", "description": "location: UCI-1850 burn site,latitude: 55.8792,longitude: -98.4839"}

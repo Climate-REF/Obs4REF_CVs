@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-crt",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-crt", "type": "site_id", "drs_name": "US-CRT", "description": "location: Curtice Walter-Berger cropland,latitude: 41.6285,longitude: -83.3471"}

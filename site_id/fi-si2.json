@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "fi-si2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "fi-si2", "type": "site_id", "drs_name": "FI-Si2", "description": "location: Siikaneva-2 Bog,latitude: 61.8372,longitude: 24.1967"}

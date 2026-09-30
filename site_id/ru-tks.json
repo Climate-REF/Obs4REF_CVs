@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ru-tks",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ru-tks", "type": "site_id", "drs_name": "RU-Tks", "description": "location: Tiksi,latitude: 71.5943,longitude: 128.8878"}

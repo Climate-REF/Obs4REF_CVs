@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ru-sam",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ru-sam", "type": "site_id", "drs_name": "RU-Sam", "description": "location: Samoylov,latitude: 72.3738,longitude: 126.4958"}
