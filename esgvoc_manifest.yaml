@@ -2,9 +2,9 @@ schema_version: '1'
 project:
   id: obs4ref
   name: Obs4REF Controlled Vocabulary
-cv_version: 3.1.0
-universe_version: 3.2.5
+cv_version: 3.1.1
+universe_version: 3.3.0
 esgvoc:
   min_version: 6.2.0
 release_notes: |
-  - catalog_specs.yaml: updated
+  - source_type: 1 added
