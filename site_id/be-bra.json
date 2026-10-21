@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "be-bra",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "be-bra", "type": "site_id", "drs_name": "BE-Bra", "description": "location: Brasschaat,latitude: 51.3076,longitude: 4.5198"}

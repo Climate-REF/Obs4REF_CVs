@@ -1,5 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "freetext",
-    "type": "regex"
+    "type": "regex",
+    "regex": ".*"
 }

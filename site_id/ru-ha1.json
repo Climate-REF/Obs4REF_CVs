@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ru-ha1",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ru-ha1", "type": "site_id", "drs_name": "RU-Ha1", "description": "location: Hakasia steppe,latitude: 54.7252,longitude: 90.0022"}

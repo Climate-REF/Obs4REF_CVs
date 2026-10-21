@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-dap",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-dap", "type": "site_id", "drs_name": "AU-DaP", "description": "location: Daly River Pasture,latitude: -14.0633,longitude: 131.3181"}

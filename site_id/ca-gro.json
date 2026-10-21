@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ca-gro",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ca-gro", "type": "site_id", "drs_name": "CA-Gro", "description": "location: Ontario - Groundhog River, Boreal Mixedwood Forest,latitude: 48.2167,longitude: -82.1556"}

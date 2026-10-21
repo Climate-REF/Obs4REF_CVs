@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-tw2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-tw2", "type": "site_id", "drs_name": "US-Tw2", "description": "location: Twitchell Corn,latitude: 38.0969,longitude: -121.6365"}

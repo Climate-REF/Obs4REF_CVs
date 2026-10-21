@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "g175",
+  "type": "grid",
+  "description": "Horizontal grid cell with a cubed sphere grid type and 0.9375 x 0.9375 degree resolution.",
+  "drs_name": "g175",
+  "region": "global"
+}

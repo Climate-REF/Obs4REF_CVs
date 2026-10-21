@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "be-lon",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "be-lon", "type": "site_id", "drs_name": "BE-Lon", "description": "location: Lonzee,latitude: 50.5516,longitude: 4.7462"}

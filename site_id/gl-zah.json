@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "gl-zah",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "gl-zah", "type": "site_id", "drs_name": "GL-ZaH", "description": "location: Zackenberg Heath,latitude: 74.4733,longitude: -20.5503"}

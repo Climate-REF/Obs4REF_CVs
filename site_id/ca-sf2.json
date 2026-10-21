@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ca-sf2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ca-sf2", "type": "site_id", "drs_name": "CA-SF2", "description": "location: Saskatchewan - Western Boreal, forest burned in 1989,latitude: 54.2539,longitude: -105.8775"}

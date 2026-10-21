@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "es-ln2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "es-ln2", "type": "site_id", "drs_name": "ES-Ln2", "description": "location: Lanjaron-Salvage logging,latitude: 36.9695,longitude: -3.4758"}

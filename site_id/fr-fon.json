@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "fr-fon",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "fr-fon", "type": "site_id", "drs_name": "FR-Fon", "description": "location: Fontainebleau-Barbeau,latitude: 48.4764,longitude: 2.7801"}

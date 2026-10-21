@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "it-ren",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "it-ren", "type": "site_id", "drs_name": "IT-Ren", "description": "location: Renon,latitude: 46.5869,longitude: 11.4337"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-wi0",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-wi0", "type": "site_id", "drs_name": "US-Wi0", "description": "location: Young red pine (YRP),latitude: 46.6188,longitude: -91.0814"}

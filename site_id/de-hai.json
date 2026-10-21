@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "de-hai",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "de-hai", "type": "site_id", "drs_name": "DE-Hai", "description": "location: Hainich,latitude: 51.0792,longitude: 10.4522"}

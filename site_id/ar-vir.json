@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ar-vir",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ar-vir", "type": "site_id", "drs_name": "AR-Vir", "description": "location: Virasoro,latitude: -28.2395,longitude: -56.1886"}

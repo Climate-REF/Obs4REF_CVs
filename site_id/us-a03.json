@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-a03",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-a03", "type": "site_id", "drs_name": "US-A03", "description": "location: ARM-AMF3-Oliktok,latitude: 70.4953,longitude: -149.8823"}

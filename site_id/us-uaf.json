@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-uaf",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-uaf", "type": "site_id", "drs_name": "US-Uaf", "description": "location: University of Alaska, Fairbanks,latitude: 64.8663,longitude: -147.8555"}

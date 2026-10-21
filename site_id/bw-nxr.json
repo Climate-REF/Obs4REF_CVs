@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "bw-nxr",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "bw-nxr", "type": "site_id", "drs_name": "BW-Nxr", "description": "location: Nxaraga,latitude: -19.5481,longitude: 23.1792"}

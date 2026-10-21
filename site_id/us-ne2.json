@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-ne2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-ne2", "type": "site_id", "drs_name": "US-Ne2", "description": "location: Mead - irrigated maize-soybean rotation site,latitude: 41.1649,longitude: -96.4701"}

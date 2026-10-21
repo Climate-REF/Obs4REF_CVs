@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "it-ro2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "it-ro2", "type": "site_id", "drs_name": "IT-Ro2", "description": "location: Roccarespampani 2,latitude: 42.3903,longitude: 11.9209"}

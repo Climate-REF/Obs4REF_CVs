@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-whs",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-whs", "type": "site_id", "drs_name": "US-Whs", "description": "location: Walnut Gulch Lucky Hills Shrub,latitude: 31.7438,longitude: -110.0522"}

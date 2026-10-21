@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "cn-qia",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "cn-qia", "type": "site_id", "drs_name": "CN-Qia", "description": "location: Qianyanzhou,latitude: 26.7414,longitude: 115.0581"}

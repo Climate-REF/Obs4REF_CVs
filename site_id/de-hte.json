@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "de-hte",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "de-hte", "type": "site_id", "drs_name": "DE-Hte", "description": "location: Huetelmoor,latitude: 54.2103,longitude: 12.1761"}

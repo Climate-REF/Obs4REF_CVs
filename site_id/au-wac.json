@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-wac",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-wac", "type": "site_id", "drs_name": "AU-Wac", "description": "location: Wallaby Creek,latitude: -37.4259,longitude: 145.1878"}

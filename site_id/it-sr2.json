@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "it-sr2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "it-sr2", "type": "site_id", "drs_name": "IT-SR2", "description": "location: San Rossore 2,latitude: 43.7320,longitude: 10.2909"}

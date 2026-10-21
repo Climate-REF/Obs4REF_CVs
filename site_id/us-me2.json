@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-me2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-me2", "type": "site_id", "drs_name": "US-Me2", "description": "location: Metolius mature ponderosa pine,latitude: 44.4526,longitude: -121.5589"}

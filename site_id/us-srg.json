@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-srg",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-srg", "type": "site_id", "drs_name": "US-SRG", "description": "location: Santa Rita Grassland,latitude: 31.7894,longitude: -110.8277"}

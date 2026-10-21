@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "it-bci",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "it-bci", "type": "site_id", "drs_name": "IT-BCi", "description": "location: Borgo Cioffi,latitude: 40.5237,longitude: 14.9574"}

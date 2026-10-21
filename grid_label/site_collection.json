@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "site-collection",
+    "type": "grid",
+    "name": "site-collection",
+    "drs_name": "site_collection",
+    "description": "data reported on a collection site-level grids",
+    "region": "global"
+}

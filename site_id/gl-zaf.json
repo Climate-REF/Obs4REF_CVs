@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "gl-zaf",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "gl-zaf", "type": "site_id", "drs_name": "GL-ZaF", "description": "location: Zackenberg Fen,latitude: 74.4814,longitude: -20.5545"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-asm",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-asm", "type": "site_id", "drs_name": "AU-ASM", "description": "location: Alice Springs,latitude: -22.2830,longitude: 133.2490"}

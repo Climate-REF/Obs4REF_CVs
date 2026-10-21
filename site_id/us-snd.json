@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-snd",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-snd", "type": "site_id", "drs_name": "US-Snd", "description": "location: Sherman Island,latitude: 38.0366,longitude: -121.7540"}

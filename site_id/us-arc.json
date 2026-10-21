@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-arc",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-arc", "type": "site_id", "drs_name": "US-ARc", "description": "location: ARM Southern Great Plains control site- Lamont,latitude: 35.5465,longitude: -98.0400"}

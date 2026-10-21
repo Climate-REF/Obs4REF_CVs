@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-ivo",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-ivo", "type": "site_id", "drs_name": "US-Ivo", "description": "location: Ivotuk,latitude: 68.4865,longitude: -155.7503"}

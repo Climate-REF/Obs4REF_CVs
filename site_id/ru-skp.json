@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ru-skp",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ru-skp", "type": "site_id", "drs_name": "RU-SkP", "description": "location: Yakutsk Spasskaya Pad larch,latitude: 62.2550,longitude: 129.1680"}

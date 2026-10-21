@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-ha1",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-ha1", "type": "site_id", "drs_name": "US-Ha1", "description": "location: Harvard Forest EMS Tower (HFR1),latitude: 42.5378,longitude: -72.1715"}

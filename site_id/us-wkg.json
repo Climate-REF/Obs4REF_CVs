@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-wkg",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-wkg", "type": "site_id", "drs_name": "US-Wkg", "description": "location: Walnut Gulch Kendall Grasslands,latitude: 31.7365,longitude: -109.9419"}

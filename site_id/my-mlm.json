@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "my-mlm",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "my-mlm", "type": "site_id", "drs_name": "MY-MLM", "description": "location: Maludam National Park,latitude: 1.4536,longitude: 111.1495"}

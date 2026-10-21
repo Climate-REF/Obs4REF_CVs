@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rip",
+    "type": "variant_label",
+    "regex": "^r\\d+i\\d+p\\d+$",
+    "description": "rip = r (realization: simulation run), i (initialization: initial conditions), p (physics: model configuration)"
+}

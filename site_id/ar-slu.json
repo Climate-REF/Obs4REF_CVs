@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ar-slu",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ar-slu", "type": "site_id", "drs_name": "AR-SLu", "description": "location: San Luis,latitude: -33.4648,longitude: -66.4598"}

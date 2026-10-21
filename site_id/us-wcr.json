@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-wcr",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-wcr", "type": "site_id", "drs_name": "US-WCr", "description": "location: Willow Creek,latitude: 45.8059,longitude: -90.0799"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-bzb",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-bzb", "type": "site_id", "drs_name": "US-BZB", "description": "location: Bonanza Creek Thermokarst Bog,latitude: 64.6955,longitude: -148.3208"}

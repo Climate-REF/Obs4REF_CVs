@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "my-pso",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "my-pso", "type": "site_id", "drs_name": "MY-PSO", "description": "location: Pasoh Forest Reserve (PSO),latitude: 2.9730,longitude: 102.3062"}

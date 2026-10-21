@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ca-tpd",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ca-tpd", "type": "site_id", "drs_name": "CA-TPD", "description": "location: Ontario - Turkey Point Mature Deciduous,latitude: 42.6353,longitude: -80.5577"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-tte",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-tte", "type": "site_id", "drs_name": "AU-TTE", "description": "location: Ti Tree East,latitude: -22.2870,longitude: 133.6400"}

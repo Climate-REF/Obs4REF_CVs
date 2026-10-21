@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-ho1",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-ho1", "type": "site_id", "drs_name": "US-Ho1", "description": "location: Howland Forest (main tower),latitude: 45.2041,longitude: -68.7402"}

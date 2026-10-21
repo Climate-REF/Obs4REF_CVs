@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "sj-blv",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "sj-blv", "type": "site_id", "drs_name": "SJ-Blv", "description": "location: Bayelva, Spitsbergen,latitude: 78.9216,longitude: 11.8311"}

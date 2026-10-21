@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "fi-lom",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "fi-lom", "type": "site_id", "drs_name": "FI-Lom", "description": "location: Lompolojankka,latitude: 67.9972,longitude: 24.2092"}

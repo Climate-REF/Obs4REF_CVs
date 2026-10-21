@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "gf-guy",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "gf-guy", "type": "site_id", "drs_name": "GF-Guy", "description": "location: Guyaflux (French Guiana),latitude: 5.2788,longitude: -52.9249"}

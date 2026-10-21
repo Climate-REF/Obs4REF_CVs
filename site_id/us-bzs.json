@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-bzs",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-bzs", "type": "site_id", "drs_name": "US-BZS", "description": "location: Bonanza Creek Black Spruce,latitude: 64.6963,longitude: -148.3235"}

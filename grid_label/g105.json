@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "g105",
+  "type": "grid",
+  "description": "Regular latitude-longitude output grid for atmosphere (based on TL127 spectral grid), 1.4 x 1.4 degree resolution.",
+  "drs_name": "g105",
+  "region": "global"
+}

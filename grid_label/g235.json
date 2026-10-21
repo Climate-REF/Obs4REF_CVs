@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "g235",
+  "type": "grid",
+  "description": "Horizontal grid cell with a reduced gaussian grid type and 100 x 100 km resolution.",
+  "drs_name": "g235",
+  "region": "global"
+}

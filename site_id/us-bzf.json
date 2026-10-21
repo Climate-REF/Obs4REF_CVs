@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-bzf",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-bzf", "type": "site_id", "drs_name": "US-BZF", "description": "location: Bonanza Creek Rich Fen,latitude: 64.7013,longitude: -148.3121"}

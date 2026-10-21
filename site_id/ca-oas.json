@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ca-oas",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ca-oas", "type": "site_id", "drs_name": "CA-Oas", "description": "location: Saskatchewan - Western Boreal, Mature Aspen,latitude: 53.6289,longitude: -106.1978"}

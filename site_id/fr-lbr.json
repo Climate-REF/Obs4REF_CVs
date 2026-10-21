@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "fr-lbr",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "fr-lbr", "type": "site_id", "drs_name": "FR-LBr", "description": "location: Le Bray,latitude: 44.7171,longitude: -0.7693"}

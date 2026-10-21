@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-me1",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-me1", "type": "site_id", "drs_name": "US-Me1", "description": "location: Metolius - Eyerly burn,latitude: 44.5794,longitude: -121.5000"}

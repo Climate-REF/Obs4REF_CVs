@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-goo",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-goo", "type": "site_id", "drs_name": "US-Goo", "description": "location: Goodwin Creek,latitude: 34.2547,longitude: -89.8735"}

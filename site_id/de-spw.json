@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "de-spw",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "de-spw", "type": "site_id", "drs_name": "DE-Spw", "description": "location: Spreewald,latitude: 51.8922,longitude: 14.0337"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-cop",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-cop", "type": "site_id", "drs_name": "US-Cop", "description": "location: Corral Pocket,latitude: 38.0900,longitude: -109.3900"}

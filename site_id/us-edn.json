@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-edn",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-edn", "type": "site_id", "drs_name": "US-EDN", "description": "location: Eden Landing Ecological Reserve,latitude: 37.6156,longitude: -122.1140"}

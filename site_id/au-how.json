@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "au-how",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "au-how", "type": "site_id", "drs_name": "AU-How", "description": "location: Howard Springs,latitude: -12.4943,longitude: 131.1523"}

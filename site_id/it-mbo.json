@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "it-mbo",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "it-mbo", "type": "site_id", "drs_name": "IT-MBo", "description": "location: Monte Bondone,latitude: 46.0147,longitude: 11.0458"}

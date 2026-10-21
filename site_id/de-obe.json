@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "de-obe",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "de-obe", "type": "site_id", "drs_name": "DE-Obe", "description": "location: Oberb\u00e4renburg,latitude: 50.7867,longitude: 13.7213"}

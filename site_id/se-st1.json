@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "se-st1",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "se-st1", "type": "site_id", "drs_name": "SE-St1", "description": "location: Stordalen grassland,latitude: 68.3541,longitude: 19.0503"}

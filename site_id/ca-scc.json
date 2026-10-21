@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ca-scc",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ca-scc", "type": "site_id", "drs_name": "CA-SCC", "description": "location: Scotty Creek Landscape,latitude: 61.3079,longitude: -121.2992"}

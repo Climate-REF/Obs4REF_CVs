@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "de-rur",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "de-rur", "type": "site_id", "drs_name": "DE-RuR", "description": "location: Rollesbroich,latitude: 50.6219,longitude: 6.3041"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "cn-ha2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "cn-ha2", "type": "site_id", "drs_name": "CN-Ha2", "description": "location: Haibei Shrubland,latitude: 37.6086,longitude: 101.3269"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "it-la2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "it-la2", "type": "site_id", "drs_name": "IT-La2", "description": "location: Lavarone2,latitude: 45.9542,longitude: 11.2853"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "de-tha",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "de-tha", "type": "site_id", "drs_name": "DE-Tha", "description": "location: Tharandt,latitude: 50.9626,longitude: 13.5651"}

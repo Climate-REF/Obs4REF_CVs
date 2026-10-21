@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-arm-sgp",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-arm-sgp", "type": "site_id", "drs_name": "US-ARM-SGP", "description": "location: ARM Southern Great Plains site- Lamont,latitude: 36.6058,longitude: -97.4888"}

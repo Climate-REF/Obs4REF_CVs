@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "es-amo",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "es-amo", "type": "site_id", "drs_name": "ES-Amo", "description": "location: Amoladeras,latitude: 36.8336,longitude: -2.2523"}

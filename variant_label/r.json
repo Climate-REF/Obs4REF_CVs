@@ -1,5 +1,7 @@
 {
     "@context": "000_context.jsonld",
     "id": "r",
-    "type": "variant_label"
+    "type": "variant_label",
+    "regex": "^r\\d+$",
+    "description": "realization index in case of multiple versions for the same source" 
 }

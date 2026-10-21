@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "g136",
+  "type": "grid",
+  "description": "Horizontal grid cell with a icosahedral geodesic grid type and 20 x 20 km resolution.",
+  "drs_name": "g136",
+  "region": "global"
+}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "cn-din",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "cn-din", "type": "site_id", "drs_name": "CN-Din", "description": "location: Dinghushan,latitude: 23.1733,longitude: 112.5361"}

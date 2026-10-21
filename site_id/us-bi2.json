@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-bi2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-bi2", "type": "site_id", "drs_name": "US-Bi2", "description": "location: Bouldin Island corn,latitude: 38.1091,longitude: -121.5351"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-sta",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-sta", "type": "site_id", "drs_name": "US-Sta", "description": "location: Saratoga,latitude: 41.3966,longitude: -106.8024"}

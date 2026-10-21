@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ca-obs",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ca-obs", "type": "site_id", "drs_name": "CA-Obs", "description": "location: Saskatchewan - Western Boreal, Mature Black Spruce,latitude: 53.9872,longitude: -105.1178"}

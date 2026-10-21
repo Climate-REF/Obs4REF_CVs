@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-wi6",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-wi6", "type": "site_id", "drs_name": "US-Wi6", "description": "location: Pine barrens #1 (PB1),latitude: 46.6249,longitude: -91.2982"}

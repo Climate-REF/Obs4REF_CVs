@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "it-noe",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "it-noe", "type": "site_id", "drs_name": "IT-Noe", "description": "location: Arca di Noe - Le Prigionette,latitude: 40.6062,longitude: 8.1517"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-los",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-los", "type": "site_id", "drs_name": "US-Los", "description": "location: Lost Creek,latitude: 46.0827,longitude: -89.9792"}

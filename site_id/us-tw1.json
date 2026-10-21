@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-tw1",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-tw1", "type": "site_id", "drs_name": "US-Tw1", "description": "location: Twitchell Wetland West Pond,latitude: 38.1074,longitude: -121.6469"}

@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-syv",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-syv", "type": "site_id", "drs_name": "US-Syv", "description": "location: Sylvania Wilderness Area,latitude: 46.2420,longitude: -89.3477"}

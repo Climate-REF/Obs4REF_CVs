@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-ngc",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-ngc", "type": "site_id", "drs_name": "US-NGC", "description": "location: NGEE Arctic Council,latitude: 64.8618,longitude: -163.7002"}

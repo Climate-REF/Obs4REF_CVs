@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-wi9",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-wi9", "type": "site_id", "drs_name": "US-Wi9", "description": "location: Young Jack pine (YJP),latitude: 46.7385,longitude: -91.0746"}

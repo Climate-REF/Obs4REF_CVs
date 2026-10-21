@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "g234",
+  "type": "grid",
+  "description": "Horizontal grid cell with a cubed sphere grid type and 208 x 208 km resolution.",
+  "drs_name": "g234",
+  "region": "global"
+}

@@ -1,5 +1,7 @@
 {
-  "@context": "000_context.jsonld",
-  "id": "site",
-  "type": "grid"
+    "@context": "000_context.jsonld",
+    "id": "site",
+    "type": "grid",
+    "regex":"site-.*",
+    "description": "where the data reported is from in-situ observations"
 }

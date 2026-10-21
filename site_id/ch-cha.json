@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ch-cha",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ch-cha", "type": "site_id", "drs_name": "CH-Cha", "description": "location: Chamau,latitude: 47.2102,longitude: 8.4104"}

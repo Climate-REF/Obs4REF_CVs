@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-nc4",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-nc4", "type": "site_id", "drs_name": "US-NC4", "description": "location: NC_AlligatorRiver,latitude: 35.7879,longitude: -75.9038"}

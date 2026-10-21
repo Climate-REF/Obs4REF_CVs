@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "g212",
+  "type": "grid",
+  "description": "Horizontal grid cell with a displaced pole grid type and 1.0 x 0.5 degree resolution.",
+  "drs_name": "g212",
+  "region": "global"
+}

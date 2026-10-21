@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-a10",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-a10", "type": "site_id", "drs_name": "US-A10", "description": "location: ARM-NSA-Barrow,latitude: 71.3242,longitude: -156.6149"}

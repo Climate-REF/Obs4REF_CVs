@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "it-cp2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "it-cp2", "type": "site_id", "drs_name": "IT-Cp2", "description": "location: Castelporziano2,latitude: 41.7043,longitude: 12.3573"}

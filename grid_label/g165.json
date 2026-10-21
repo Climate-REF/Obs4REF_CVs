@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "g165",
+  "type": "grid",
+  "description": "Horizontal grid cell with a tripolar grid type.",
+  "drs_name": "g165",
+  "region": "global"
+}

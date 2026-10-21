@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "us-ib2",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "us-ib2", "type": "site_id", "drs_name": "US-IB2", "description": "location: Fermi National Accelerator Laboratory- Batavia (Prairie site),latitude: 41.8406,longitude: -88.2410"}

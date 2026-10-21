@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "g217",
+  "type": "grid",
+  "description": "Horizontal grid cell with a plane projection grid type and 8 x 8 km resolution.",
+  "drs_name": "g217",
+  "region": "antarctica"
+}

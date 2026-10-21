@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "fi-hyy",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "fi-hyy", "type": "site_id", "drs_name": "FI-Hyy", "description": "location: Hyytiala,latitude: 61.8474,longitude: 24.2948"}

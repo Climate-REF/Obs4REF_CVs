@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "it-ca3",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "it-ca3", "type": "site_id", "drs_name": "IT-CA3", "description": "location: Castel d'Asso3,latitude: 42.3800,longitude: 12.0222"}

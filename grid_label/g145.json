@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "g145",
+  "type": "grid",
+  "description": "Horizontal grid cell with a yin yang grid type and 1 x 1 degree resolution.",
+  "drs_name": "g145",
+  "region": "global"
+}

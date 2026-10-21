@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ca-man",
-    "type": "site_id"
-}
+{"@context": "000_context.jsonld", "id": "ca-man", "type": "site_id", "drs_name": "CA-Man", "description": "location: Manitoba - Northern Old Black Spruce (former BOREAS Northern Study Area),latitude: 55.8796,longitude: -98.4808"}

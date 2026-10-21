@@ -1,5 +1,1 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "true",
-    "type": "has_aux_unc"
-}
+{"@context": "000_context.jsonld", "id": "true", "type": "has_aux_unc", "drs_name": "TRUE", "description": "when additional files containing uncertainty information are provided"}
